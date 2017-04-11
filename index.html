@@ -10,7 +10,13 @@
         <script src="jquery-3.2.0.min.js"></script>
         <script src="bootstrap/js/bootstrap.min.js"></script>
 
+        <link href="https://fonts.googleapis.com/css?family=Hind" rel="stylesheet"> 
+
         <style>
+            body {
+                font-family: 'Hind', sans-serif;
+            }
+
             #logo {
                 width: 500px;
                 max-width: 100%;
@@ -27,6 +33,10 @@
 
             nav.navbar-default {
                 background: transparent;
+            }
+
+            nav #navbar ul li a {
+                padding: 15px 20px;
             }
 
             nav #navbar ul li.active a,
@@ -171,6 +181,14 @@
             article .btn-more:hover {
                 background-color: #58598a;
                 color: white;
+            }
+
+            #tutorial {
+                background: #eee;
+            }
+
+            .video {
+                margin-bottom: 30px;
             }
         </style>
     </head>
@@ -333,5 +351,52 @@
                 </div>
             </div>
         </div>
+
+        <div id="tutorial">
+            <div class="container">
+
+                <h1>Tutorial Videos</h1>
+
+                <div class="row">
+
+                    <div class="col-md-4">
+                        <div class="embed-responsive embed-responsive-16by9 video">
+                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/iJbsp-ri2Gs" frameborder="0" allowfullscreen></iframe>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4">
+                        <div class="embed-responsive embed-responsive-16by9 video">
+                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/n6aF0wNcm7E" frameborder="0" allowfullscreen></iframe>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4">
+                        <div class="embed-responsive embed-responsive-16by9 video">
+                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/_0rw36mA9mM" frameborder="0" allowfullscreen></iframe>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4">
+                        <div class="embed-responsive embed-responsive-16by9 video">
+                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/oh7hhoOBg54" frameborder="0" allowfullscreen></iframe>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4">
+                        <div class="embed-responsive embed-responsive-16by9 video">
+                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/LWiyzXWL4sg" frameborder="0" allowfullscreen></iframe>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+
+        <footer>
+            
+        </footer>
+
     </body>
 </html>
