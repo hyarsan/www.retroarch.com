@@ -25,9 +25,17 @@
                 text-transform: uppercase;
             }
 
-            nav ul li.active a {
+            nav.navbar-default {
+                background: transparent;
+            }
+
+            nav #navbar ul li.active a {
                 background-color: #58598a;
                 color: white;
+            }
+
+            nav #navbar ul li a:hover {
+                background-color: #eee;
             }
 
             #welcome {
@@ -166,17 +174,15 @@
         </div>
         <nav class="navbar-static-top navbar-collapse navbar-default">
             <div class="container">
-                <!-- Brand and toggle get grouped for better mobile display -->
                 <div class="navbar-header">
-                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
                         <span class="sr-only">Toggle navigation</span>
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
                 </div>
-
-                <div class="collapse navbar-collapse">
+                <div id="navbar" class="collapse navbar-collapse">
                     <ul class="nav navbar-nav">
                         <li class="active"><a href="#">About</a></li>
                         <li><a href="https://www.libretro.com/index.php/category/blog/">News</a></li>
