@@ -1,0 +1,320 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>RetroArch</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+        <script src="jquery-3.2.0.min.js"></script>
+        <script src="bootstrap/js/bootstrap.min.js"></script>
+
+        <style>
+            #logo {
+                width: 500px;
+                max-width: 100%;
+                margin: 40px 0;
+            }
+
+            #bg {
+                width: 100%;
+            }
+
+            nav ul li a {
+                text-transform: uppercase;
+            }
+
+            nav ul li.active a {
+                background-color: #58598a;
+                color: white;
+            }
+
+            #welcome {
+                background-color: #58598a;
+                color: white;
+                padding: 0;
+                font-size: 20px;
+            }
+
+            #welcome .description {
+                padding-top: 50px;
+            }
+
+            .btn-ra {
+                background: rgba(255, 255, 255, 0.2);
+                border-color: white;
+                border-width: 2px;
+                color: white;
+                margin: 30px 0;
+            }
+
+            #get-ra {
+                margin: 50px 0 20px 0;
+            }
+
+            .btn-ra:hover {
+                background: rgba(255, 255, 255, 0.5);
+                color: white;
+            }
+
+            h1 {
+                margin-bottom: 30px;
+            }
+
+            #features {
+                padding: 30px 0;
+            }
+
+            #features .item {
+                min-height: 400px;
+                padding: 3% 10%;
+                color: white;
+                font-size: 16px;
+                background-position: 0;
+                background-repeat: no-repeat;
+                background-size: auto 100%;
+            }
+
+            #features .item.interface {
+                background-color: #336480;
+            }
+
+            #features .item.cross-platform {
+                background-color: #996eab;
+            }
+
+            #features .item.customizable {
+                background-color: #33454f;
+            }
+
+            #features .item.joypad-autoconfig {
+                background-color: #6c6db0;
+            }
+
+            #features .item.shaders {
+                background-color: #aeae8f;
+            }
+
+            @media (min-width: 992px) {
+                #features .item.interface {
+                    background-image: url(interface.png);
+                }
+
+                #features .item.cross-platform {
+                    background-image: url(cross-platform.png);
+                }
+
+                #features .item.customizable {
+                    background-image: url(customizable.jpg);
+                }
+
+                #features .item.joypad-autoconfig {
+                    background-image: url(joypad-autoconfig.jpg);
+                }
+
+                #features .item.shaders {
+                    background-image: url(shaders.png);
+                }
+
+                #features .item {
+                    height: 450px;
+                    font-size: 18px;
+                }
+            }
+
+            @media (min-width: 1200px) {
+                #features .item {
+                    height: 500px;
+                    font-size: 20px;
+                }
+            }
+
+            #features .item h2 {
+                padding-bottom: 5px;
+                margin-bottom: 30px;
+                border-bottom: solid 1px white;
+            }
+
+            article {
+                font-size: 16px;
+                margin-bottom: 30px;
+            }
+
+            article .metadata {
+                border-top: solid 2px #58598a;
+                padding: 10px 0;
+                margin: 15px 0;
+                font-size: 14px;
+                color: #888;
+            }
+
+            article .btn-more {
+                border: 2px solid #58598a;
+                color: #58598a;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <img id="logo" src="https://www.libretro.com/wp-content/uploads/2016/03/retroarch-plain-logo.png">
+        </div>
+        <nav class="navbar-static-top">
+            <div class="container">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+
+                <div class="collapse navbar-collapse">
+                    <ul class="nav navbar-nav">
+                        <li class="active"><a href="#">About</a></li>
+                        <li><a href="https://www.libretro.com/index.php/category/blog/">News</a></li>
+                        <li><a href="http://buildbot.libretro.com/stable/1.5.0">Download</a></li>
+                        <li><a href="http://libretro.com/forums/">Forum</a></li>
+                        <li><a href="https://buildbot.libretro.com/docs/">Docs</a></li>
+                        <li><a href="https://www.patreon.com/libretro">Donate</a></li>
+                    </ul>
+                </div><!-- /.navbar-collapse -->
+            </div><!-- /.container -->
+        </nav>
+        <div id="welcome">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-5 description">
+                        <p>RetroArch is a frontend for emulators, game engines and media players.</p>
+
+                        <p>It enables you to run classic games on a wide range of computers and consoles through its slick graphical interface. Settings are also unified so configuration is done once and for all.</p>
+
+                        <p>People like it for its advanced features like shaders, netplay or rewinding.</p>
+
+                        <a id="get-ra" href="#" class="btn btn-ra btn-lg">Get RetroArch</a>
+                    </div>
+                    <div class="col-md-7">
+                        <img id="bg" src="bg.png">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="features">
+            <div class="container">
+                <h1>Features</h1>
+
+                <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+                    <!-- Indicators -->
+                    <ol class="carousel-indicators">
+                        <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+                        <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+                        <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+                        <li data-target="#carousel-example-generic" data-slide-to="3"></li>
+                        <li data-target="#carousel-example-generic" data-slide-to="4"></li>
+                    </ol>
+
+                    <!-- Wrapper for slides -->
+                    <div class="carousel-inner" role="listbox">
+                        <div class="item interface active">
+                            <div class="row">
+                                <div class="col-md-6"></div>
+                                <div class="col-md-6">
+                                    <h2>A Polished Interface</h2>
+                                    <p>Browse your game collection through a beautiful clone of the PS3 XMB.</p>
+                                    <p>After scanning your collection, games will be sorted by system.</p>
+                                    <p>The menu supports thumbnails and features nice animated backgrounds. </p>
+                                    <a class="btn btn-ra pull-right" href="#">Learn more about the interface</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item cross-platform">
+                            <div class="row">
+                                <div class="col-md-6"></div>
+                                <div class="col-md-6">
+                                    <h2>Cross platform</h2>
+                                    <p>RetroArch can run on the usual platforms like Windows, Mac OS X and Linux.</p>
+                                    <p>It also runs on Apple and Android for tablets and phones, as well as on game consoles like PS3, PSP, PS Vita, Wii, Wii U and more!</p>
+                                    <a class="btn btn-ra pull-right" href="#">See the list of all supported platforms</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item customizable">
+                            <div class="row">
+                                <div class="col-md-6"></div>
+                                <div class="col-md-6">
+                                    <h2>Highly Configurable</h2>
+                                    <p>Our advanced settings interface lets you tweak every possible option about how the games are run and displayed.</p>
+                                    <p>Of course every setting has a sane default so you can get started fast.</p>
+                                    <a class="btn btn-ra pull-right" href="#">Learn how to configure RetroArch</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item joypad-autoconfig">
+                            <div class="row">
+                                <div class="col-md-6"></div>
+                                <div class="col-md-6">
+                                    <h2>Joypad Auto Configuration</h2>
+                                    <p>Common joypads are automatically configured when plugged, just like on a real game console.</p>
+                                    <p>Ideal to start a multiplayer game when a friend visit with his own joypad.</p>
+                                    <p>You can also configure everything manually to assign special actions to combos.</p>
+                                    <a class="btn btn-ra pull-right" href="#">Learn more about joypad configuration</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item shaders">
+                            <div class="row">
+                                <div class="col-md-6"></div>
+                                <div class="col-md-6">
+                                    <h2>Shaders</h2>
+                                    <p>Shaders are efficient graphical filters that can greatly improve the rendering of old games.</p>
+                                    <p>They can also be used to replicate the look and feel of old CRT monitors.</p>
+                                    <p>You can even stack them to create your own effect. The possibilities are infinite.</p>
+                                    <a class="btn btn-ra pull-right" href="#">Learn more about shaders</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="news">
+            <div class="container">
+                <h1>News</h1>
+
+                <div class="row">
+                    <article class="col-md-6">
+                        <h2>Lorem Ipsum</h2>
+                        <p class="metadata"><span class="glyphicon glyphicon-time" aria-hidden="true"></span> 22th April 2017&nbsp;&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-tags" aria-hidden="true"></span> Tag 1</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at semper est. Morbi sit amet arcu sodales, fringilla felis quis, efficitur felis. Donec iaculis erat non aliquam sodales. Duis hendrerit justo justo, non blandit nibh aliquet eu. Nulla bibendum suscipit mauris eu aliquam. Donec nec massa consectetur, interdum ligula sit amet, hendrerit nunc. Mauris lobortis sapien ut tincidunt sollicitudin.</p>
+                        <a class="btn btn-more pull-right" href="#">Continue reading <span class="glyphicon glyphicon-circle-arrow-right" aria-hidden="true"></span></a>
+                    </article>
+
+                    <article class="col-md-6">
+                        <h2>Pellentesque pulvinar odio sagittis</h2>
+                        <p class="metadata">22th April 2017&nbsp;&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-tags" aria-hidden="true"></span> Tag 1</p>
+                        <p>Pellentesque pulvinar odio sagittis, imperdiet erat et, sollicitudin lorem. Nulla gravida turpis id nibh rhoncus, ut viverra elit blandit. Aenean fringilla turpis mattis turpis mattis gravida. Etiam lacinia vel justo a sollicitudin. Maecenas ac quam at augue ultrices aliquam. Ut quam odio, faucibus eu nunc sit amet, feugiat porta nisl. Integer consectetur nibh ligula, et euismod metus faucibus non.</p>
+                        <a class="btn btn-more pull-right" href="#">Continue reading <span class="glyphicon glyphicon-circle-arrow-right" aria-hidden="true"></span></a>
+                    </article>
+
+                    <article class="col-md-6">
+                        <h2>Class aptent taciti</h2>
+                        <p class="metadata">22th April 2017&nbsp;&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-tags" aria-hidden="true"></span> Tag 1</p>
+                        <p>Pellentesque euismod lacinia ante a lacinia. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum tristique, ante eget placerat lacinia, eros eros volutpat elit, vel fermentum massa felis non tortor. Donec sagittis consectetur nisl sed elementum. Nam lobortis lacus justo. Phasellus mi magna, auctor suscipit dolor mattis, tincidunt maximus mauris. Nulla rhoncus non nunc sit amet dignissim. Aenean hendrerit augue orci, sed vestibulum odio eleifend ac. Sed posuere ipsum vitae sapien vulputate finibus.</p>
+                        <a class="btn btn-more pull-right" href="#">Continue reading <span class="glyphicon glyphicon-circle-arrow-right" aria-hidden="true"></span></a>
+                    </article>
+
+                    <article class="col-md-6">
+                        <h2>Sed commodo eros nec nibh pulvinar</h2>
+                        <p class="metadata">22th April 2017&nbsp;&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-tags" aria-hidden="true"></span> Tag 1</p>
+                        <p>Sed commodo eros nec nibh pulvinar tincidunt. Vestibulum vitae iaculis dolor, quis lobortis augue. Proin in lorem ut diam condimentum facilisis nec sagittis tortor. Nullam sit amet mi et mi feugiat ornare at vitae neque. Nam vitae ornare mauris, in porttitor erat. Duis blandit ac metus vitae ultricies. Etiam turpis metus, ultrices eu turpis vitae, aliquam rhoncus arcu. </p>
+                        <a class="btn btn-more pull-right" href="#">Continue reading <span class="glyphicon glyphicon-circle-arrow-right" aria-hidden="true"></span></a>
+                    </article>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
