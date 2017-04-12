@@ -1,0 +1,179 @@
+body {
+    font-family: 'Hind', sans-serif;
+}
+
+#logo {
+    width: 500px;
+    max-width: 100%;
+    margin: 40px 0;
+}
+
+#bg {
+    width: 100%;
+}
+
+nav ul li a {
+    text-transform: uppercase;
+}
+
+nav.navbar-default {
+    background: transparent;
+}
+
+nav #navbar ul li a {
+    padding: 15px 20px;
+}
+
+nav #navbar ul li.active a,
+nav #navbar ul li.active a:hover {
+    background-color: #58598a;
+    color: white;
+}
+
+nav #navbar ul li a:hover {
+    background-color: #eee;
+}
+
+#welcome {
+    background-color: #58598a;
+    color: white;
+    padding: 0;
+    font-size: 20px;
+}
+
+#welcome .description {
+    padding-top: 60px;
+}
+
+.btn-ra {
+    background: rgba(255, 255, 255, 0.2);
+    border-color: white;
+    border-width: 2px;
+    color: white;
+    margin: 30px 0;
+}
+
+#get-ra {
+    margin: 50px 0 20px 0;
+}
+
+.btn-ra:hover {
+    background: rgba(255, 255, 255, 0.5);
+    color: white;
+}
+
+h1 {
+    margin-bottom: 30px;
+}
+
+#features {
+    padding: 30px 0;
+}
+
+#features-carousel {
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+#features .item {
+    min-height: 400px;
+    padding: 3% 10%;
+    color: white;
+    font-size: 16px;
+    background-position: 0;
+    background-repeat: no-repeat;
+    background-size: auto 100%;
+}
+
+#features .item.interface {
+    background-color: #336480;
+}
+
+#features .item.cross-platform {
+    background-color: #996eab;
+}
+
+#features .item.customizable {
+    background-color: #33454f;
+}
+
+#features .item.joypad-autoconfig {
+    background-color: #6c6db0;
+}
+
+#features .item.shaders {
+    background-color: #aeae8f;
+}
+
+@media (min-width: 768px) {
+    #features .item.interface {
+        background-image: url(images/interface.png);
+    }
+
+    #features .item.cross-platform {
+        background-image: url(images/cross-platform.png);
+    }
+
+    #features .item.customizable {
+        background-image: url(images/customizable.jpg);
+    }
+
+    #features .item.joypad-autoconfig {
+        background-image: url(images/joypad-autoconfig.jpg);
+    }
+
+    #features .item.shaders {
+        background-image: url(images/shaders.png);
+    }
+}
+
+@media (min-width: 992px) {
+    #features .item {
+        height: 450px;
+        font-size: 18px;
+    }
+}
+
+@media (min-width: 1200px) {
+    #features .item {
+        height: 500px;
+        font-size: 20px;
+    }
+}
+
+#features .item h2 {
+    padding-bottom: 5px;
+    margin-bottom: 30px;
+    border-bottom: solid 1px white;
+}
+
+article {
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+
+article .metadata {
+    border-top: solid 2px #58598a;
+    padding: 10px 0;
+    margin: 15px 0;
+    font-size: 14px;
+    color: #888;
+}
+
+article .btn-more {
+    border: 2px solid #58598a;
+    color: #58598a;
+}
+
+article .btn-more:hover {
+    background-color: #58598a;
+    color: white;
+}
+
+#tutorial {
+    background: #eee;
+}
+
+.video {
+    margin-bottom: 30px;
+}
