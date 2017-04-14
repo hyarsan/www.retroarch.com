@@ -63,8 +63,8 @@ nav #navbar ul li a:hover {
 }
 
 .btn-ra:hover {
-    background: rgba(255, 255, 255, 0.5);
-    color: white;
+    background: white;
+    color: #58598a;
 }
 
 h1 {
