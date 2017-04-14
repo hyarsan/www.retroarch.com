@@ -242,3 +242,25 @@ footer .social a:hover {
     font-size: 16px;
     max-height: 250px;
 }
+
+
+.platform {
+    background: #eee;
+    border-radius: 3px;
+    margin-top: 30px;
+}
+
+.platform img {
+    width: 100%;
+}
+
+.platform h4 {
+    font-weight: bold;
+    text-align: center;
+}
+
+.platform a {
+    display: block;
+    padding: 5px 10px;
+    border-top: 1px solid #ddd;
+}
