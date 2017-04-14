@@ -179,13 +179,32 @@ article .btn-more:hover {
 }
 
 footer {
-    font-size: 20px;
-    text-align: center;
     background-color: #111;
     padding: 20px;
 }
 
-footer a {
+footer h4 {
+    font-weight: bold;
+}
+
+footer ul {
+    list-style: none;
+    padding: 0;
+}
+
+footer li a {
+    display: block;
+    padding: 5px;
+    color: #ccc;
+}
+
+footer li a:hover {
+    background: #222;
+    color: #ddd;
+    text-decoration: none;
+}
+
+footer .social a {
     display: inline-block;
     background: #222;
     border-radius: 50%;
@@ -193,9 +212,11 @@ footer a {
     height: 60px;
     line-height: 60px;
     color: #ccc;
+    text-align: center;
+    font-size: 20px;
 }
 
-footer a:hover {
+footer .social a:hover {
     background-color: #333;
     color: #ddd;
 }
