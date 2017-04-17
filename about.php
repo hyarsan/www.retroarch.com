@@ -8,7 +8,7 @@
 
                 <p>People like it for its advanced features like shaders, netplay or rewinding.</p>
 
-                <a id="get-ra" href="platforms.html" class="btn btn-ra btn-lg">Get RetroArch</a>
+                <a id="get-ra" href="index.php?page=platforms" class="btn btn-ra btn-lg">Get RetroArch</a>
             </div>
             <div class="col-md-7">
                 <img id="bg" src="images/bg.png">
@@ -41,7 +41,7 @@
                             <p>Browse your game collection through a beautiful clone of the PS3 XMB.</p>
                             <p>After scanning your collection, games will be sorted by system.</p>
                             <p>The menu supports thumbnails and features nice animated backgrounds. </p>
-                            <a class="btn btn-ra pull-right" href="interface.html">Learn more about the interface</a>
+                            <a class="btn btn-ra pull-right" href="index.php?page=interface">Learn more about the interface</a>
                         </div>
                     </div>
                 </div>
@@ -52,7 +52,7 @@
                             <h2>Cross platform</h2>
                             <p>RetroArch can run on the usual platforms like Windows, Mac OS X and Linux.</p>
                             <p>It also runs on Apple and Android for tablets and phones, as well as on game consoles like PS3, PSP, PS Vita, Wii, Wii U and more!</p>
-                            <a class="btn btn-ra pull-right" href="platforms.html">See the list of all supported platforms</a>
+                            <a class="btn btn-ra pull-right" href="index.php?page=platforms">See the list of all supported platforms</a>
                         </div>
                     </div>
                 </div>
@@ -75,7 +75,7 @@
                             <p>Common joypads are automatically configured when plugged, just like on a real game console.</p>
                             <p>Ideal to start a multiplayer game when a friend visit with his own joypad.</p>
                             <p>You can also configure everything manually to assign special actions to combos.</p>
-                            <a class="btn btn-ra pull-right" href="joypad-autoconfig.html">Learn more about joypad configuration</a>
+                            <a class="btn btn-ra pull-right" href="index.php?page=joypad-autoconfig">Learn more about joypad configuration</a>
                         </div>
                     </div>
                 </div>
