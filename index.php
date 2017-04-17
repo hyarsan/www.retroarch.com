@@ -17,7 +17,7 @@
     </head>
     <body>
         <div class="container">
-            <img id="logo" src="images/logo.png">
+            <a href="index.php"><img id="logo" src="images/logo.png"></a>
         </div>
         <nav class="navbar-static-top navbar-collapse navbar-default">
             <div class="container">
