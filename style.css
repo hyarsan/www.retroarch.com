@@ -12,9 +12,12 @@ body {
     width: 100%;
 }
 
+ul.nav.navbar-nav {
+    margin: 0;
+}
+
 .navbar-collapse {
     padding: 0;
-    overflow-x: hidden;
 }
 
 nav ul li a {
