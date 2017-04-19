@@ -43,7 +43,7 @@ nav #navbar ul li a:hover {
     background-color: #58598a;
     color: white;
     padding: 0;
-    font-size: 20px;
+    font-size: 14px;
 }
 
 #welcome .description {
@@ -155,6 +155,10 @@ h1 {
 }
 
 @media (min-width: 992px) {
+    #welcome {
+        font-size: 16px;
+    }
+
     #features .item {
         height: 400px;
         font-size: 16px;
@@ -171,6 +175,10 @@ h1 {
 }
 
 @media (min-width: 1200px) {
+    #welcome {
+        font-size: 20px;
+    }
+
     #features .item {
         height: 475px;
         font-size: 20px;

@@ -1,7 +1,7 @@
 <div id="welcome">
     <div class="container">
         <div class="row">
-            <div class="col-md-5 description">
+            <div class="col-md-5 col-sm-6 description">
                 <p>RetroArch is a frontend for emulators, game engines and media players.</p>
 
                 <p>It enables you to run classic games on a wide range of computers and consoles through its slick graphical interface. Settings are also unified so configuration is done once and for all.</p>
@@ -10,7 +10,7 @@
 
                 <a id="get-ra" href="index.php?page=platforms" class="btn btn-ra btn-lg">Get RetroArch</a>
             </div>
-            <div class="col-md-7">
+            <div class="col-md-7 col-sm-6">
                 <img id="bg" src="images/bg.png">
             </div>
         </div>

@@ -47,7 +47,7 @@
         <footer>
             <div class="container">
                 <div class="row">
-                    <div class="col-md-4">
+                    <div class="col-md-4 col-sm-6">
                         <h4>Related Links</h4>
                         <ul>
                             <li><a href="https://www.libretro.com/">Libretro Blog</a></li>
@@ -58,7 +58,7 @@
                             <li><a href="https://www.libretro.com/index.php/mission/">Mission</a></li>
                         </ul>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-md-4 col-sm-6">
                         <h4>Developer Links</h4>
                         <ul>
                             <li><a href="https://buildbot.libretro.com/docs/">Documentation</a></li>
@@ -67,7 +67,7 @@
                             <li><a href="https://www.libretro.com/index.php/api/">Libretro API</a></li>
                         </ul>
                     </div>
-                    <div class="col-md-4 social">
+                    <div class="col-md-4 col-sm-6 social">
                         <h4>Follow us</h4>
                         <a href="https://github.com/libretro/RetroArch"><i class="fa fa-github-alt"></i></a>
                         <a href="https://twitter.com/libretro"><i class="fa fa-twitter"></i></a>
