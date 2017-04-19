@@ -18,9 +18,8 @@
     <body>
         <div class="container">
             <a href="index.php"><img id="logo" src="images/logo.png"></a>
-        </div>
-        <nav class="navbar-static-top navbar-collapse navbar-default">
-            <div class="container">
+
+            <nav class="navbar-static-top navbar-collapse navbar-default">
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
                         <span class="sr-only">Toggle navigation</span>
@@ -39,8 +38,9 @@
                         <li><a href="https://www.patreon.com/libretro">Donate</a></li>
                     </ul>
                 </div><!-- /.navbar-collapse -->
-            </div><!-- /.container -->
-        </nav>
+            </nav>
+        </div>
+
 
         <?php isset($_GET[page]) ? include($_GET[page] . '.php') : include('about.php'); ?>
 
