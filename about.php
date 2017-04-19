@@ -29,6 +29,7 @@
                 <li data-target="#features-carousel" data-slide-to="2"></li>
                 <li data-target="#features-carousel" data-slide-to="3"></li>
                 <li data-target="#features-carousel" data-slide-to="4"></li>
+                <li data-target="#features-carousel" data-slide-to="5"></li>
             </ol>
 
             <!-- Wrapper for slides -->
@@ -88,6 +89,17 @@
                             <p>They can also be used to replicate the look and feel of old CRT monitors.</p>
                             <p>You can even stack them to create your own effect. The possibilities are infinite.</p>
                             <a class="btn btn-ra pull-right" href="#">Learn more about shaders</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="item achievements">
+                    <div class="row">
+                        <div class="col-sm-6"></div>
+                        <div class="col-sm-6">
+                            <h2>Achievements</h2>
+                            <p>Unlock achievements on your favorite classic games!</p>
+                            <p>RetroArch integrates with the RetroAchievements service to provide a trophees unlocking mechanism similar to modern web consoles.</p>
+                            <a class="btn btn-ra pull-right" href="#">Learn more about achievements</a>
                         </div>
                     </div>
                 </div>

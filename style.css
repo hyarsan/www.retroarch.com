@@ -110,6 +110,10 @@ h1 {
     background-color: #aeae8f;
 }
 
+#features .item.achievements {
+    background-color: #736994;
+}
+
 @media (min-width: 768px) {
     #features .item.interface {
         background-image: url(images/interface.png);
@@ -129,6 +133,10 @@ h1 {
 
     #features .item.shaders {
         background-image: url(images/shaders.png);
+    }
+    
+    #features .item.achievements {
+        background-image: url(images/achievements.png);
     }
 }
 
