@@ -19,9 +19,6 @@
                 <div class="platform">
                     <img src="images/linux.png">
                     <h4>Linux</h4>
-                    <a href="#">Download (32bit)</a>
-                    <a href="#">Download (64bit)</a>
-                    <a href="#">Download (armhf)</a>
                     <a href="#">Installation instructions</a>
                 </div>
             </div>
@@ -29,26 +26,23 @@
                 <div class="platform">
                     <img src="images/windows.png">
                     <h4>Windows</h4>
-                    <a href="#">Download (32bit)</a>
-                    <a href="#">Download (64bit)</a>
-                    <a href="#">Installation instructions</a>
+                    <a href="https://buildbot.libretro.com/stable/1.5.0/windows/x86/RetroArch.7z">Download (32bit)</a>
+                    <a href="https://buildbot.libretro.com/stable/1.5.0/windows/x86_64/RetroArch.7z">Download (64bit)</a>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
                 <div class="platform">
                     <img src="images/apple.png">
                     <h4>Apple</h4>
-                    <a href="#">Download (Intel)</a>
+                    <a href="https://buildbot.libretro.com/stable/1.5.0/apple/osx/x86_64/RetroArch.dmg">Download (Intel)</a>
                     <a href="#">Download (PowerPC)</a>
-                    <a href="#">Installation instructions</a>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
                 <div class="platform">
                     <img src="images/web.png">
                     <h4>Web Browsers</h4>
-                    <a href="#">Try it online</a>
-                    <a href="#">Installation instructions</a>
+                    <a href="https://buildbot.libretro.com/web/">Try it online</a>
                 </div>
             </div>
         </div>
@@ -57,7 +51,7 @@
                 <div class="platform">
                     <img src="images/android.png">
                     <h4>Android</h4>
-                    <a href="#">Download</a>
+                    <a href="https://buildbot.libretro.com/stable/1.5.0/android/RetroArch.apk">Download</a>
                     <a href="#">Installation instructions</a>
                 </div>
             </div>
@@ -65,7 +59,8 @@
                 <div class="platform">
                     <img src="images/ios.png">
                     <h4>iOS</h4>
-                    <a href="#">Download</a>
+                    <a href="https://buildbot.libretro.com/stable/1.5.0/apple/ios/RetroArch.zip">Download</a>
+                    <a href="https://buildbot.libretro.com/stable/1.5.0/apple/ios9/RetroArch.zip">Download (iOS9)</a>
                     <a href="#">Installation instructions</a>
                 </div>
             </div>
@@ -85,11 +80,13 @@
                     <a href="#">Installation instructions</a>
                 </div>
             </div>
+        </div>
+        <div class="row">
             <div class="col-md-3 col-sm-6">
                 <div class="platform">
                     <img src="images/psp.png">
                     <h4>PlayStation Portable</h4>
-                    <a href="#">Download</a>
+                    <a href="https://buildbot.libretro.com/stable/1.5.0/playstation/psp/RetroArch.7z">Download</a>
                     <a href="#">Installation instructions</a>
                 </div>
             </div>
@@ -97,7 +94,7 @@
                 <div class="platform">
                     <img src="images/psvita.png">
                     <h4>PlayStation Vita / TV</h4>
-                    <a href="#">Download</a>
+                    <a href="https://buildbot.libretro.com/stable/1.5.0/playstation/vita/RetroArch.7z">Download</a>
                     <a href="#">Installation instructions</a>
                 </div>
             </div>
@@ -117,11 +114,13 @@
                     <a href="#">Installation instructions</a>
                 </div>
             </div>
+        </div>
+        <div class="row">
             <div class="col-md-3 col-sm-6">
                 <div class="platform">
                     <img src="images/gc.png">
                     <h4>Gamecube</h4>
-                    <a href="#">Download</a>
+                    <a href="https://buildbot.libretro.com/stable/1.5.0/nintendo/ngc/RetroArch.7z">Download</a>
                     <a href="#">Installation instructions</a>
                 </div>
             </div>
@@ -129,7 +128,16 @@
                 <div class="platform">
                     <img src="images/wii.png">
                     <h4>Wii</h4>
-                    <a href="#">Download</a>
+                    <a href="https://buildbot.libretro.com/stable/1.5.0/nintendo/wii/RetroArch.7z">Download</a>
+                    <a href="#">Installation instructions</a>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <div class="platform">
+                    <img src="images/wiiu.png">
+                    <h4>Wii U</h4>
+                    <a href="https://buildbot.libretro.com/stable/1.5.0/nintendo/wiiu/RetroArch.7z">Download</a>
+                    <a href="https://buildbot.libretro.com/stable/1.5.0/nintendo/wiiu/RetroArch_rpx.7z">Download (rpx)</a>
                     <a href="#">Installation instructions</a>
                 </div>
             </div>
@@ -137,10 +145,13 @@
                 <div class="platform">
                     <img src="images/3ds.png">
                     <h4>3DS</h4>
-                    <a href="#">Download</a>
+                    <a href="https://buildbot.libretro.com/stable/1.5.0/nintendo/3ds/RetroArch_3dsx.7z">Download (3dsx)</a>
+                    <a href="https://buildbot.libretro.com/stable/1.5.0/nintendo/3ds/RetroArch_cia.7z">Download (cia)</a>
                     <a href="#">Installation instructions</a>
                 </div>
             </div>
+        </div>
+        <div class="row">
             <div class="col-md-3 col-sm-6">
                 <div class="platform">
                     <img src="images/rpi.png">
