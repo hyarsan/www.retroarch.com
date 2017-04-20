@@ -131,6 +131,10 @@ h1 {
     background-color: #736994;
 }
 
+#features .item.netplay {
+    background-color: #216161;
+}
+
 @media (min-width: 768px) {
     #features .item.interface {
         background-image: url(images/interface.png);
@@ -154,6 +158,10 @@ h1 {
     
     #features .item.achievements {
         background-image: url(images/achievements.png);
+    }
+
+    #features .item.netplay {
+        background-image: url(images/netplay.png);
     }
 }
 

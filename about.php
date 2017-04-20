@@ -30,6 +30,7 @@
                 <li data-target="#features-carousel" data-slide-to="3"></li>
                 <li data-target="#features-carousel" data-slide-to="4"></li>
                 <li data-target="#features-carousel" data-slide-to="5"></li>
+                <li data-target="#features-carousel" data-slide-to="6"></li>
             </ol>
 
             <!-- Wrapper for slides -->
@@ -100,6 +101,18 @@
                             <p>Unlock achievements on your favorite classic games!</p>
                             <p>RetroArch integrates with the RetroAchievements service to provide a trophees unlocking mechanism similar to modern web consoles.</p>
                             <a class="btn btn-ra pull-right" href="#">Learn more about achievements</a>
+                        </div>
+                    </div>
+                </div>
+                 <div class="item netplay">
+                    <div class="row">
+                        <div class="col-sm-6"></div>
+                        <div class="col-sm-6">
+                            <h2>Netplay</h2>
+                            <p>Host or join a network gaming session.</p>
+                            <p>Rediscover the joy of multiplayer games using RetroArch builtin netplay lobby.</p>
+                            <p>You can also use the spectator mode to watch other playing.</p>
+                            <a class="btn btn-ra pull-right" href="#">Learn more about netplay</a>
                         </div>
                     </div>
                 </div>
