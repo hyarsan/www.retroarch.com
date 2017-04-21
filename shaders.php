@@ -19,12 +19,12 @@
         <p>Here are a few examples of common shaders:</p>
 
         <div class="row imagegrid">
-            <div class="col-md-4"><img src="images/shader-ex-1.png"></div>
-            <div class="col-md-4"><img src="images/shader-ex-2.png"></div>
-            <div class="col-md-4"><img src="images/shader-ex-3.png"></div>
-            <div class="col-md-4"><img src="images/shader-ex-4.png"></div>
-            <div class="col-md-4"><img src="images/shader-ex-5.png"></div>
-            <div class="col-md-4"><img src="images/shader-ex-6.png"></div>
+            <div class="col-md-4 col-sm-6"><img src="images/shader-ex-1.png"></div>
+            <div class="col-md-4 col-sm-6"><img src="images/shader-ex-2.png"></div>
+            <div class="col-md-4 col-sm-6"><img src="images/shader-ex-3.png"></div>
+            <div class="col-md-4 col-sm-6"><img src="images/shader-ex-4.png"></div>
+            <div class="col-md-4 col-sm-6"><img src="images/shader-ex-5.png"></div>
+            <div class="col-md-4 col-sm-6"><img src="images/shader-ex-6.png"></div>
         </div>
 
         <p>Shaders can also be used to display the handheld border:</p>
