@@ -13,10 +13,10 @@
 
 <div class="doc">
     <div class="container">
-        <h2>Shaders, shader types and shader presets</h2>
-        <p>A shader is a graphical filter that is applied to the game screen. You can use them to improve the aspect of old games and make them look smooth on recent monitors. They can also be used to replicate the old CRT monitors, or the screen of a gameboy.</p>
+        <h2>Presentation</h2>
+        <p>RetroArch is shiped with a lot of shaders. There are too many kind of shaders and we can't show all of them on this page.</p>
 
-        <p>Here are a few shader examples:</p>
+        <p>Here are a few examples of common shaders:</p>
 
         <div class="row imagegrid">
             <div class="col-md-4"><img src="images/shader-ex-1.png"></div>
@@ -27,6 +27,15 @@
             <div class="col-md-4"><img src="images/shader-ex-6.png"></div>
         </div>
 
+        <p>Shaders can also be used to display the handheld border:</p>
+
+        <div class="row imagegrid">
+            <div class="col-md-4"><img src="images/shader-console-1.png"></div>
+            <div class="col-md-4"><img src="images/shader-console-2.png"></div>
+            <div class="col-md-4"><img src="images/shader-console-3.png"></div>
+        </div>
+
+        <h2>Shader languages and shader presets</h2>
         <p>Shaders are small programs, and they are written in specific programming languages. RetroArch supports 3 of these languages:</p>
         <ul>
             <li><b>CG:</b> the prefered format, when available on your platform</li>
@@ -59,10 +68,27 @@
                 <p>To enable a shader preset, you need to have a game&nbsp;running.</p>
                 <p>You then trigger the menu and you should see a Shaders entry in the <b>Quick&nbsp;Menu</b>.</p>
                 <p>Go to <b>Load Shader Preset</b> and choose a preset&nbsp;file.</p>
-                <p>In this example, we have loaded <b>shaders_glsl/xbrz/4xbrz-linear.glslp</b>.</p>
+                <p>In this example, we have loaded <b>shaders_glsl/crt/crt-geom.glslp</b>.</p>
             </div>
         </div>
 
         <h2>Configuring a shader</h2>
+
+        <div class="row">
+            <div class="col-md-6">
+                <p>In this example, we have set the <b>Menu Shader pipeline</b> to <b>OFF</b> and the <b>Background Opacity</b> to <b>0</b> in the <b>Settings->User Interface->Menu</b> to be able to preview the parameter changes in live.</p>
+                <p>Load a game and apply a shader preset that supports parameters like <b>shaders_glsl/crt/crt-geom.glslp</b>.</p>
+                <p>You then trigger the menu and you should see a Shaders entry in the <b>Quick&nbsp;Menu</b>.</p>
+                <p>Go to <b>Preview Shader Parameters</b> and start playing with the values.</p>
+                <p>When you are happy with your changes, you can save them under a new preset file.</p>
+            </div>
+            <div class="col-md-6">
+                <video width="100%" controls>
+                    <source src="videos/config-shader.webm" type="video/webm">
+                    Your browser does not support the video tag.
+                </video> 
+            </div>
+        </div>
+
     </div>
 </div>
