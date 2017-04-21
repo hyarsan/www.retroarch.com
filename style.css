@@ -317,3 +317,11 @@ footer .social a:hover {
     padding: 5px 10px;
     border-top: 1px solid #ddd;
 }
+
+.imagegrid {
+    margin-top: 30px;
+}
+
+.imagegrid img {
+    margin-bottom: 30px;
+}
