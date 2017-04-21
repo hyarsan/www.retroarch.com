@@ -89,7 +89,7 @@
                             <p>Shaders are efficient graphical filters that can greatly improve the rendering of old games.</p>
                             <p>They can also be used to replicate the look and feel of old CRT monitors.</p>
                             <p>You can even stack them to create your own effect. The possibilities are infinite.</p>
-                            <a class="btn btn-ra pull-right" href="#">Learn more about shaders</a>
+                            <a class="btn btn-ra pull-right" href="index.php?page=shaders">Learn more about shaders</a>
                         </div>
                     </div>
                 </div>
