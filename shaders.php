@@ -61,6 +61,7 @@
             <div class="col-md-6">
                 <video width="100%" controls>
                     <source src="videos/load-shader.webm" type="video/webm">
+                    <source src="videos/load-shader.mp4" type="video/mp4">
                     Your browser does not support the video tag.
                 </video> 
             </div>
@@ -85,6 +86,7 @@
             <div class="col-md-6">
                 <video width="100%" controls>
                     <source src="videos/config-shader.webm" type="video/webm">
+                    <source src="videos/config-shader.mp4" type="video/mp4">
                     Your browser does not support the video tag.
                 </video> 
             </div>
