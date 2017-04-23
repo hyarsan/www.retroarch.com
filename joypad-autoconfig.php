@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-md-12 abstract">
                 <h1>Joypad Auto Configuration</h1>
-                <p>Common joypads are automatically configured when plugged, just like on a real game console.</p>
+                <p>Common joypads are automatically configured when plugged in, just like on a real game console.</p>
                 <p>Ideal to start a multiplayer game when a friend visit with his own joypad.</p>
                 <p>You can also configure everything manually to assign special actions to combos.</p>
             </div>
