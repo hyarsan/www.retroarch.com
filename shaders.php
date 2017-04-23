@@ -55,9 +55,7 @@
         <h2>Downloading and upgrading shaders</h2>
         <p>You can download or upgrade the shader packs for the 3 types in <b>Main Menu->Online Updater</b>.</p>
 
-        <h2>Loading a shader preset</h2>
-
-        <div class="row">
+        <div class="row imagegrid">
             <div class="col-md-6">
                 <video width="100%" controls>
                     <source src="videos/load-shader.webm" type="video/webm">
@@ -66,6 +64,7 @@
                 </video> 
             </div>
             <div class="col-md-6">
+                <h2>Loading a shader preset</h2>
                 <p>To enable a shader preset, you need to have a game&nbsp;running.</p>
                 <p>You then trigger the menu and you should see a Shaders entry in the <b>Quick&nbsp;Menu</b>.</p>
                 <p>Go to <b>Load Shader Preset</b> and choose a preset&nbsp;file.</p>
@@ -73,10 +72,9 @@
             </div>
         </div>
 
-        <h2>Configuring a shader</h2>
-
-        <div class="row">
+        <div class="row imagegrid">
             <div class="col-md-6">
+                <h2>Configuring a shader</h2>
                 <p>In this example, we have set the <b>Menu Shader pipeline</b> to <b>OFF</b> and the <b>Background Opacity</b> to <b>0</b> in the <b>Settings->User Interface->Menu</b> to be able to preview the parameter changes in live.</p>
                 <p>Load a game and apply a shader preset that supports parameters like <b>shaders_glsl/crt/crt-geom.glslp</b>.</p>
                 <p>You then trigger the menu and you should see a Shaders entry in the <b>Quick&nbsp;Menu</b>.</p>
