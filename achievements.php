@@ -4,7 +4,7 @@
             <div class="col-md-12 abstract">
                 <h1>Achievements</h1>
                 <p>Unlock achievements on your favorite classic&nbsp;games!</p>
-                <p>RetroArch integrates with the RetroAchievements service to provide a trophees unlocking mechanism similar to modern web&nbsp;consoles.</p>
+                <p>RetroArch integrates with the RetroAchievements service to provide a trophies unlocking mechanism similar to modern web&nbsp;consoles.</p>
             </div>
         </div>
     </div>
@@ -30,7 +30,7 @@
                 <p>You need an active internet connection.</p>
                 <p>In this example, we are using the game <b>Chrono Trigger (USA)</b> with the core <b>snes9x</b>.</p>
                 <p>Launch the game and trigger the <b>Quick Menu</b>.</p>
-                <p>Go to <b>Achievements</b> and you should see a list of the unlockable trophees for this game.</p>
+                <p>Go to <b>Achievements</b> and you should see a list of the unlockable trophies for this game.</p>
             </div>
             <div class="col-md-6">
                 <img src="images/achievements-list.png">
@@ -40,9 +40,9 @@
             <div class="col-md-6">
                 <h2>Check your progress</h2>
                 <p>On the retroachievements website, you can login and access your account page.</p>
-                <p>You should be able to check your progress in the games and see which trophees you unlocked.</p>
-                <p>Trophees unlocked in hard mode are marked with a special color.</p>
-                <p>You can also check the progress of your friends and add comments on their trophees.</p>
+                <p>You should be able to check your progress in the games and see which trophies you unlocked.</p>
+                <p>Trophies unlocked in hard mode are marked with a special color.</p>
+                <p>You can also check the progress of your friends and add comments on their trophies.</p>
             </div>
             <div class="col-md-6">
                 <img src="images/achievements-progress.png">
