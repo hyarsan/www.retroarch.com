@@ -14,7 +14,7 @@
 <div class="doc">
     <div class="container">
         <h2>Presentation</h2>
-        <p>RetroArch is shiped with a lot of shaders. There are too many kind of shaders and we can't show all of them on this page.</p>
+        <p>RetroArch is shipped with a lot of shaders. There are too many kind of shaders and we can't show all of them on this page.</p>
 
         <p>Here are a few examples of common shaders:</p>
 
