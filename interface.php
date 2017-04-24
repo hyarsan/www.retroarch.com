@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-md-12 abstract">
                 <h1>The graphical interface</h1>
-                <p>XMB is the default graphical interface of RetroArch. It is optimized for joypad navigation and can be extended using a playlist system. You can use it to browse your game collection with metadata and thumbnails. It also allows to tweak the settings and to perform actions on the active&nbsp;game.</p>
+                <p>XMB is the default graphical interface of RetroArch. It is optimized for joypad navigation and can be extended using a playlist system. You can use it to browse your game collection with metadata and thumbnails. It also allows you to tweak the settings and to perform actions on the active&nbsp;game.</p>
             </div>
         </div>
     </div>
