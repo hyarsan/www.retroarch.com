@@ -34,6 +34,7 @@
                         <li><a href="https://www.libretro.com/index.php/category/blog/">News</a></li>
                         <li><a href="http://buildbot.libretro.com/stable/1.5.0">Download</a></li>
                         <li><a href="http://libretro.com/forums/">Forums</a></li>
+                        <li><a href="https://twitter.com/libretro">Twitter</a></li>
                         <li><a href="https://www.youtube.com/user/Libretro/">Youtube</a></li>
                         <li><a href="https://buildbot.libretro.com/docs/">Docs</a></li>
                         <li><a href="https://www.patreon.com/libretro">Donate</a></li>
