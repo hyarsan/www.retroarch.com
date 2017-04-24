@@ -17,8 +17,8 @@
                 <h2>How to setup achievements</h2>
                 <p>The first step is to register an account on <a href="http://retroachievements.org/">http://retroachievements.org/</a>.</p>
                 <p>Please note that this service is not maintained by RetroArch or the libretro team.</p>
-                <p>Then, you need to enable the functionnality and fill your retroachievements credentials in <b>Settings->Achievements</b>.</p>
-                <p>The <b>hardcore mode</b> prevents you to use emulation features like slow motion, fast forwarding, cheats and savestates.</p>
+                <p>Then, you need to enable the functionality and fill your retroachievements credentials in <b>Settings->Achievements</b>.</p>
+                <p>The <b>hardcore mode</b> prevents you from using emulation features like slow motion, fast forwarding, cheats and savestates.</p>
             </div>
             <div class="col-md-6">
                 <img src="images/achievements-settings.png">
@@ -27,7 +27,7 @@
         <div class="row imagegrid">
             <div class="col-md-6">
                 <h2>Check your connection to the&nbsp;service</h2>
-                <p>You need an active internet connection.</p>
+                <p>You need an active Internet connection.</p>
                 <p>In this example, we are using the game <b>Chrono Trigger (USA)</b> with the core <b>snes9x</b>.</p>
                 <p>Launch the game and trigger the <b>Quick Menu</b>.</p>
                 <p>Go to <b>Achievements</b> and you should see a list of the unlockable trophies for this game.</p>
