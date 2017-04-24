@@ -111,7 +111,7 @@
                             <h2>Netplay</h2>
                             <p>Host or join a network gaming session.</p>
                             <p>Rediscover the joy of multiplayer games using RetroArch builtin netplay lobby.</p>
-                            <p>You can also use the spectator mode to watch other playing.</p>
+                            <p>You can also use the spectator mode to watch others play.</p>
                             <a class="btn btn-ra pull-right" href="#">Learn more about netplay</a>
                         </div>
                     </div>
