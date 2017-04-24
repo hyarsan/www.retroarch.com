@@ -15,7 +15,7 @@
         <div class="row imagegrid">
             <div class="col-md-6">
                 <h2>How to setup achievements</h2>
-                <p>The first step is to register an accoun on <a href="http://retroachievements.org/">http://retroachievements.org/</a>.</p>
+                <p>The first step is to register an account on <a href="http://retroachievements.org/">http://retroachievements.org/</a>.</p>
                 <p>Please note that this service is not maintained by RetroArch or the libretro team.</p>
                 <p>Then, you need to enable the functionnality and fill your retroachievements credentials in <b>Settings->Achievements</b>.</p>
                 <p>The <b>hardcore mode</b> prevents you to use emulation features like slow motion, fast forwarding, cheats and savestates.</p>
