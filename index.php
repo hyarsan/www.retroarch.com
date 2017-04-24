@@ -36,6 +36,7 @@
                         <li><a href="http://libretro.com/forums/">Forums</a></li>
                         <li><a href="https://buildbot.libretro.com/docs/">Docs</a></li>
                         <li><a href="https://www.patreon.com/libretro">Donate</a></li>
+                        <li><a href="https://www.youtube.com/user/Libretro/">Youtube</a></li>
                     </ul>
                 </div><!-- /.navbar-collapse -->
             </nav>
