@@ -122,6 +122,7 @@
                     <h4>Gamecube</h4>
                     <a href="https://buildbot.libretro.com/stable/1.5.0/nintendo/ngc/RetroArch.7z">Download</a>
                     <a href="#">Installation instructions</a>
+                    <a href="https://buildbot.libretro.com/docs/compilation/gamecube/">Compilation instructions</a>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
@@ -130,6 +131,7 @@
                     <h4>Wii</h4>
                     <a href="https://buildbot.libretro.com/stable/1.5.0/nintendo/wii/RetroArch.7z">Download</a>
                     <a href="#">Installation instructions</a>
+                    <a href="https://buildbot.libretro.com/docs/compilation/wii/">Compilation instructions</a>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
@@ -139,6 +141,7 @@
                     <a href="https://buildbot.libretro.com/stable/1.5.0/nintendo/wiiu/RetroArch.7z">Download</a>
                     <a href="https://buildbot.libretro.com/stable/1.5.0/nintendo/wiiu/RetroArch_rpx.7z">Download (rpx)</a>
                     <a href="#">Installation instructions</a>
+                    <a href="https://buildbot.libretro.com/docs/compilation/wiiu/">Compilation instructions</a>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
@@ -148,6 +151,7 @@
                     <a href="https://buildbot.libretro.com/stable/1.5.0/nintendo/3ds/RetroArch_3dsx.7z">Download (3dsx)</a>
                     <a href="https://buildbot.libretro.com/stable/1.5.0/nintendo/3ds/RetroArch_cia.7z">Download (cia)</a>
                     <a href="#">Installation instructions</a>
+                    <a href="https://buildbot.libretro.com/docs/compilation/3ds/">Compilation instructions</a>
                 </div>
             </div>
         </div>
