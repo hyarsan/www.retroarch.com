@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-md-12 abstract">
                 <h1>Shaders</h1>
-                <p>Shaders are efficient graphical filters that can greatly improve the rendering of old games.</p>
+                <p>Shaders are efficient graphics filters that can greatly improve the rendering of old games.</p>
                 <p>They can also be used to replicate the look and feel of old CRT monitors.</p>
                 <p>You can even stack them to create your own effect. The possibilities are infinite.</p>
             </div>
