@@ -42,7 +42,7 @@
 
         <div class="row">
             <div class="col-md-6">
-                <p>This is what a joypad profile is looking like in RetroArch.</p>
+                <p>This is what a joypad profile looks like in RetroArch.</p>
 
                 <p>The first part is used for matching, as explained above. The vendor id and product id are in decimal format.</p>
 
