@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <title>RetroArch</title>
-        <meta name="description" content="">
+        <meta name="description" content="RetroArch is a frontend for emulators, game engines and media players. It enables you to run classic games on a wide range of computers and consoles through its slick graphical interface. Settings are also unified so configuration is done once and for all.">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
