@@ -31,6 +31,7 @@
                 <li data-target="#features-carousel" data-slide-to="4"></li>
                 <li data-target="#features-carousel" data-slide-to="5"></li>
                 <li data-target="#features-carousel" data-slide-to="6"></li>
+                <li data-target="#features-carousel" data-slide-to="7"></li>
             </ol>
 
             <!-- Wrapper for slides -->
@@ -104,7 +105,7 @@
                         </div>
                     </div>
                 </div>
-                 <div class="item netplay">
+                <div class="item netplay">
                     <div class="row">
                         <div class="col-sm-6"></div>
                         <div class="col-sm-6">
@@ -113,6 +114,17 @@
                             <p>Rediscover the joy of multiplayer games using RetroArch builtin netplay lobby.</p>
                             <p>You can also use the spectator mode to watch others play.</p>
                             <a class="btn btn-ra pull-right" href="#">Learn more about netplay</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="item recording">
+                    <div class="row">
+                        <div class="col-sm-6"></div>
+                        <div class="col-sm-6">
+                            <h2>Recording &amp; Streaming</h2>
+                            <p>RetroArch is able to record your playing session to a video file.</p>
+                            <p>The same mechanism also enables you to stream your games to platforms like Twitch.tv or Youtube.</p>
+                            <a class="btn btn-ra pull-right" href="#">Learn more about recording</a>
                         </div>
                     </div>
                 </div>

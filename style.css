@@ -135,6 +135,10 @@ h1 {
     background-color: #216161;
 }
 
+#features .item.recording {
+    background-color: #6441a4;
+}
+
 @media (min-width: 768px) {
     #features .item.interface {
         background-image: url(images/interface.png);
@@ -162,6 +166,10 @@ h1 {
 
     #features .item.netplay {
         background-image: url(images/netplay.png);
+    }
+    
+    #features .item.recording {
+        background-image: url(images/recording.png);
     }
 }
 
