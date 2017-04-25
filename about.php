@@ -113,7 +113,7 @@
                             <p>Host or join a network gaming session.</p>
                             <p>Rediscover the joy of multiplayer games using RetroArch builtin netplay lobby.</p>
                             <p>You can also use the spectator mode to watch others play.</p>
-                            <a class="btn btn-ra pull-right" href="#">Learn more about netplay</a>
+                            <a class="btn btn-ra pull-right" href="index.php?page=netplay">Learn more about netplay</a>
                         </div>
                     </div>
                 </div>
@@ -123,7 +123,7 @@
                         <div class="col-sm-6">
                             <h2>Recording &amp; Streaming</h2>
                             <p>RetroArch is able to record your playing session to a video file.</p>
-                            <p>The same mechanism also enables you to stream your games to platforms like Twitch.tv or Youtube.</p>
+                            <p>The same mechanism also enables you to live stream your games to platforms like Twitch.tv or Youtube.</p>
                             <a class="btn btn-ra pull-right" href="#">Learn more about recording</a>
                         </div>
                     </div>
