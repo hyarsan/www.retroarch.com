@@ -30,7 +30,9 @@
                 <img src="images/recording-twitch-dashboard.png">
             </div>
             <div class="col-md-6">
-                <p>The first thing you will need is a twitch account. Once logged in, go to the user menu in the top bar, and go to the <b>Dashboard</b> and in the <b>Settings tab</b> you will find your <b>Stream Key</b>. This key is required to stream to your twitch page and must be kept secret.</p>
+                <p>The first thing you will need is a twitch account.</p>
+                <p>Once logged in, open the user menu in the top bar and go to the <b>Dashboard</b>.</p>
+                <p>In the <b>Settings tab</b> you will find your <b>Stream Key</b>. This key is required to stream to your twitch page and must be kept secret.</p>
             </div>
         </div>
         <div class="row imagegrid">
@@ -38,8 +40,8 @@
                 <img src="images/recording-twitch-settings.png">
             </div>
             <div class="col-md-6">
-                <p>In the <b>Recording Settings</b>, enable the feature and set the <b>Save Output Recording as...</b> option to <code>rtmp://live.twitch.tv/app/$YOUR_STREAM_KEY</code></p>
-                <p>You will also need to download and load <a href="twitch.cfg">this config file</a>.</p>
+                <p>In <b>Settings->Recording</b>, enable the feature and set the <b>Save Output Recording as...</b> option to <code>rtmp://live.twitch.tv/app/$YOUR_STREAM_KEY</code></p>
+                <p>You will also need to download and load <a href="twitch.cfg">this config file</a>. It will improve the performance of the video encoding.</p>
             </div>
         </div>
         <div class="row imagegrid">
