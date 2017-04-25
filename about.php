@@ -124,7 +124,7 @@
                             <h2>Recording &amp; Streaming</h2>
                             <p>RetroArch is able to record your playing session to a video file.</p>
                             <p>The same mechanism also enables you to live stream your games to platforms like Twitch.tv or Youtube.</p>
-                            <a class="btn btn-ra pull-right" href="#">Learn more about recording</a>
+                            <a class="btn btn-ra pull-right" href="index.php?page=recording">Learn more about recording</a>
                         </div>
                     </div>
                 </div>
