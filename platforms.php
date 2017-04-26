@@ -19,7 +19,7 @@
                 <div class="platform">
                     <img src="images/linux.png">
                     <h4>Linux</h4>
-                    <a href="#">Installation instructions</a>
+                    <a href="index.php?page=linux-instructions">Installation instructions</a>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
