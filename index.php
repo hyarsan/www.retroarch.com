@@ -30,9 +30,9 @@
                 </div>
                 <div id="navbar" class="collapse navbar-collapse">
                     <ul class="nav navbar-nav">
-                        <li class="active"><a href="#">About</a></li>
+                        <li <?php if ($_GET[page] != 'platforms') { echo 'class="active"'; } ?>><a href="#">About</a></li>
                         <li><a href="https://www.libretro.com/index.php/category/blog/">News</a></li>
-                        <li><a href="http://buildbot.libretro.com/stable/1.5.0">Download</a></li>
+                        <li <?php if ($_GET[page] == 'platforms') { echo 'class="active"'; } ?>><a href="index.php?page=platforms">Download</a></li>
                         <li><a href="http://libretro.com/forums/">Forums</a></li>
                         <li><a href="https://twitter.com/libretro">Twitter</a></li>
                         <li><a href="https://www.youtube.com/user/Libretro/">Youtube</a></li>
