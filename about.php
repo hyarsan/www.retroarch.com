@@ -66,7 +66,7 @@
                             <h2>Highly Configurable</h2>
                             <p>Our advanced settings interface lets you tweak every possible option about how the games are run and displayed.</p>
                             <p>Of course every setting has a sane default so you can get started fast.</p>
-                            <a class="btn btn-ra pull-right" href="#">Learn how to configure RetroArch</a>
+                            <a class="btn btn-ra pull-right" href="index.php?page=configuration">Learn how to configure RetroArch</a>
                         </div>
                     </div>
                 </div>
