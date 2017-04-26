@@ -100,7 +100,7 @@
                         <div class="col-sm-6">
                             <h2>Achievements</h2>
                             <p>Unlock achievements on your favorite classic games!</p>
-                            <p>RetroArch integrates with the RetroAchievements service to provide a trophees unlocking mechanism similar to modern web consoles.</p>
+                            <p>RetroArch integrates with the RetroAchievements service to provide a trophies unlocking mechanism similar to modern web consoles.</p>
                             <a class="btn btn-ra pull-right" href="index.php?page=achievements">Learn more about achievements</a>
                         </div>
                     </div>
