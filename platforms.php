@@ -20,6 +20,7 @@
                     <img src="images/linux.png">
                     <h4>Linux</h4>
                     <a href="index.php?page=linux-instructions">Installation instructions</a>
+                    <a href="https://buildbot.libretro.com/docs/compilation/ubuntu/">Compilation instructions (Ubuntu)</a>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
@@ -36,6 +37,8 @@
                     <h4>Apple</h4>
                     <a href="https://buildbot.libretro.com/stable/1.5.0/apple/osx/x86_64/RetroArch.dmg">Download (Intel)</a>
                     <a href="#">Download (PowerPC)</a>
+                    <a href="https://buildbot.libretro.com/docs/compilation/osxppc/">Compilation instructions (Intel)</a>
+                    <a href="https://buildbot.libretro.com/docs/compilation/osxppc/">Compilation instructions (PowerPC)</a>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
@@ -62,6 +65,7 @@
                     <a href="https://buildbot.libretro.com/stable/1.5.0/apple/ios/RetroArch.zip">Download</a>
                     <a href="https://buildbot.libretro.com/stable/1.5.0/apple/ios9/RetroArch.zip">Download (iOS9)</a>
                     <a href="#">Installation instructions</a>
+                    <a href="https://buildbot.libretro.com/docs/compilation/ios/">Compilation instructions</a>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
@@ -78,6 +82,7 @@
                     <h4>PlayStation 3</h4>
                     <a href="#">Download</a>
                     <a href="#">Installation instructions</a>
+                    <a href="https://buildbot.libretro.com/docs/compilation/ps3/">Compilation instructions</a>
                 </div>
             </div>
         </div>
@@ -88,6 +93,7 @@
                     <h4>PlayStation Portable</h4>
                     <a href="https://buildbot.libretro.com/stable/1.5.0/playstation/psp/RetroArch.7z">Download</a>
                     <a href="#">Installation instructions</a>
+                    <a href="https://buildbot.libretro.com/docs/compilation/psp/">Compilation instructions</a>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
@@ -96,6 +102,7 @@
                     <h4>PlayStation Vita / TV</h4>
                     <a href="https://buildbot.libretro.com/stable/1.5.0/playstation/vita/RetroArch.7z">Download</a>
                     <a href="#">Installation instructions</a>
+                    <a href="https://buildbot.libretro.com/docs/compilation/psvita/">Compilation instructions</a>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
@@ -104,6 +111,7 @@
                     <h4>Xbox</h4>
                     <a href="#">Download (XDK)</a>
                     <a href="#">Installation instructions</a>
+                    <a href="https://buildbot.libretro.com/docs/compilation/xbox/">Compilation instructions</a>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
@@ -112,6 +120,7 @@
                     <h4>Xbox 360</h4>
                     <a href="#">Download (XeXDK)</a>
                     <a href="#">Installation instructions</a>
+                    <a href="https://buildbot.libretro.com/docs/compilation/xbox360/">Compilation instructions</a>
                 </div>
             </div>
         </div>
