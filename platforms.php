@@ -181,5 +181,10 @@
                 </div>
             </div>
         </div>
+        <h2>Other downloads</h2>
+        <ul>
+            <li><a href="http://buildbot.libretro.com/stable">Stable builds</a></li>
+            <li><a href="http://buildbot.libretro.com/nightly">Nightly builds</a></li>
+        </ul>
     </div>
 </div>
