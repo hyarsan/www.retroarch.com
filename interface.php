@@ -60,9 +60,9 @@
                 <p><img src="images/xmb-osk.png"></p>
             </div>
             <div class="col-md-6">
-                <p>In RetroArch XMB, <b>the joypad is the prefered way to navigate</b>. You can perform every action using the pad, like launching games or triggering the menu from the active&nbsp;game.</p>
+                <p>In RetroArch XMB, <b>the joypad is the preferred way to navigate</b>. You can perform every action using the pad, like launching games or triggering the menu from the active&nbsp;game.</p>
 
-                <p>When you need to type text in the settings interface, and multilanguage <b>On Screen Keyboard</b> will be displayed to let you type words and&nbsp;passwords.</p>
+                <p>When you need to type text in the settings interface, a multilanguage <b>On Screen Keyboard</b> will be displayed to let you type words and&nbsp;passwords.</p>
 
                 <p>The menu has been designed as an immersive experience: you will not have to switch from your joypad to your keyboard to perform actions using the menu while your game keeps playing in the&nbsp;background.</p>
             </div>
@@ -70,7 +70,7 @@
 
         <h2>Playlists</h2>
 
-        <p>You can add new tabs to XMB by scanning your game collection and creating playlists. Games will be sorter per system. You can also write playlist manually to display a list of your favorite games, or any list you can think&nbsp;of.</p>
+        <p>You can add new tabs to XMB by scanning your game collection and creating playlists. Games will be sorted per system. You can also write playlists manually to display a list of your favorite games, or any list you can think&nbsp;of.</p>
 
         <p>Playlist entries can be associated to a database entry to display the metadata of the game: Release Year, Genre, Developer, Number of Players,&nbsp;etc.</p>
 
