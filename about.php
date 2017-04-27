@@ -6,7 +6,7 @@
 
                 <p>It enables you to run classic games on a wide range of computers and consoles through its slick graphical interface. Settings are also unified so configuration is done once and for all.</p>
 
-                <p>People like it for its advanced features like shaders, netplay or rewinding.</p>
+                <p>RetroArch has advanced features like shaders, netplay and rewinding, and more!</p>
 
                 <a id="get-ra" href="index.php?page=platforms" class="btn btn-ra btn-lg">Get RetroArch</a>
             </div>
