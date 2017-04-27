@@ -68,7 +68,7 @@
                 <p>To enable a shader preset, you need to have a game&nbsp;running.</p>
                 <p>You then trigger the menu and you should see a Shaders entry in the <b>Quick&nbsp;Menu</b>.</p>
                 <p>Go to <b>Load Shader Preset</b> and choose a preset&nbsp;file.</p>
-                <p>In this example, we have loaded <b>shaders_glsl/crt/crt-geom.glslp</b>.</p>
+                <p>For this example, we used <b>shaders_glsl/crt/crt-geom.glslp</b>.</p>
             </div>
         </div>
 
