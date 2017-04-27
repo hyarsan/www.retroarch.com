@@ -29,6 +29,9 @@
                     <h4>Windows</h4>
                     <a href="https://buildbot.libretro.com/stable/1.5.0/windows/x86/RetroArch.7z">Download (32bit)</a>
                     <a href="https://buildbot.libretro.com/stable/1.5.0/windows/x86_64/RetroArch.7z">Download (64bit)</a>
+                    <a href="https://buildbot.libretro.com/docs/compilation/windows98/">Compilation instructons (Windows 98/2000 - Visual Studio 2005)</a>
+                    <a href="https://buildbot.libretro.com/docs/compilation/windowsXP/">Compilation instructons (Windows XP - Visual Studio 2010)</a>
+                    <a href="https://buildbot.libretro.com/docs/compilation/windows/">Compilation instructons (Windows Vista and later - MinGW-W64 MSYS2)</a>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
