@@ -65,6 +65,6 @@
         </div>
 
         <h2>Community</h2>
-        <p>Join our <a href="https://discord.gg/2G5EznA">Discord channels</a> to find netplayers and be able to use voice chat during gameplay.</p>
+        <p>Join our <a href="https://discord.gg/2G5EznA">Discord channels</a> to find netplayers. Through Discord you would also be able to use voice chat to converse with others during gameplay.</p>
     </div>
 </div>
