@@ -41,7 +41,7 @@
         <div class="row imagegrid">
             <div class="col-md-6">
                 <h2>Input Settings</h2>
-                <p>This is the place to configure mouse, keyboard and joypads. You can choose if you use <a href="index.php?page=joypad-autoconfig">Joypad autoconfiguration</a> or manual binding.</p>
+                <p>This is the place to configure your mouse, keyboard and/or joypads. You can choose between <a href="index.php?page=joypad-autoconfig">Joypad autoconfiguration</a> or manual binding.</p>
                 <p>You can bind actions like <b>Fast forward</b> or <b>Save state</b> to keyboard keys and joypad buttons. A good idea is to map these actions on the joypad while setting one of the button to the <b>Hotkey function</b>. This way, pressing Hotkey plus a button will perform an action, but you will still be able to use this button in the game.</p>
             </div>
             <div class="col-md-6">
@@ -54,7 +54,7 @@
                 <h2>Playlists Settings</h2>
                 <p>In this section, you can attribute a default core to a playlist.</p>
                 <p>This is useful for per-system playlists when you already know what emulator you want to use to launch the games of a given playlist.</p>
-                <p>If you don't set any default core, RetroArch will prompt you for which core you want to use on a playlist entry basis.</p>
+                <p>If you don't set any default core, RetroArch will ask you which core you want to use on a playlist entry basis.</p>
             </div>
             <div class="col-md-6">
                 <img src="images/playlists-settings.png">
