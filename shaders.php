@@ -14,9 +14,9 @@
 <div class="doc">
     <div class="container">
         <h2>Presentation</h2>
-        <p>RetroArch is shipped with a lot of shaders. There are too many kind of shaders and we can't show all of them on this page.</p>
+        <p>RetroArch is shipped with a lot of shaders. There is an overwhelming array of them and we can't show all of them on this page.</p>
 
-        <p>Here are a few examples of common shaders:</p>
+        <p>Here are a few common examples:</p>
 
         <div class="row imagegrid">
             <div class="col-md-4 col-sm-6"><img src="images/shader-ex-1.png"></div>
