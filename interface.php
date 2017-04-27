@@ -42,7 +42,7 @@
                     <li><b>Libretro cores:</b> emulators and game engines.</li>
                     <li><b>A game database:</b> used by our scanning system to build playlists and display the games metadatas.</li>
                     <li><b>Game thumbnails:</b> boxart, title screen, in game screen, for each system.</li>
-                    <li><b>Joypad profiles:</b> default mapping for common joypads to work out of the box. <a href="/joypad-autoconfig.html">Read more</a></li>
+                    <li><b>Joypad profiles:</b> default mapping for common joypads to work out of the box. <a href="http://retroarch.com/index.php?page=joypad-autoconfig">Read more</a></li>
                     <li><b>Cheats:</b> cheats for the most common games.</li>
                     <li><b>Shaders:</b> video filters to apply on the game screen. <a href="http://retroarch.com/index.php?page=shaders">Read more</a></li>
                     <li>A few free games and&nbsp;homebrews.</li>
