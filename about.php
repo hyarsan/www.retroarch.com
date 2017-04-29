@@ -6,7 +6,7 @@
 
                 <p>It enables you to run classic games on a wide range of computers and consoles through its slick graphical interface. Settings are also unified so configuration is done once and for all.</p>
 
-                <p>RetroArch has advanced features like shaders, netplay and rewinding, and more!</p>
+                <p>RetroArch has advanced features like shaders, netplay, rewinding, and more!</p>
 
                 <a id="get-ra" href="index.php?page=platforms" class="btn btn-ra btn-lg">Get RetroArch</a>
             </div>
@@ -41,9 +41,9 @@
                         <div class="col-sm-6"></div>
                         <div class="col-sm-6">
                             <h2>A Polished Interface</h2>
-                            <p>Browse your game collection through a beautiful clone of the PS3 XMB.</p>
+                            <p>Browse your game collection through a beautiful clone of the PS3 XMB menu.</p>
                             <p>After scanning your collection, games will be sorted by system.</p>
-                            <p>The menu supports thumbnails and features nice animated backgrounds. </p>
+                            <p>The menu supports thumbnails and features various animated backgrounds. </p>
                             <a class="btn btn-ra pull-right" href="index.php?page=interface">Learn more about the interface</a>
                         </div>
                     </div>
@@ -54,7 +54,7 @@
                         <div class="col-sm-6">
                             <h2>Cross platform</h2>
                             <p>RetroArch can run on the usual platforms like Windows, Mac OS X and Linux.</p>
-                            <p>It also runs on Apple and Android for tablets and phones, as well as on game consoles like PS3, PSP, PS Vita, Wii, Wii U and more!</p>
+                            <p>RetroArch also runs on Apple and Android for tablets and phones, as well as on game consoles like PS3, PSP, PS Vita, Wii, Wii U and more!</p>
                             <a class="btn btn-ra pull-right" href="index.php?page=platforms">See the list of all supported platforms</a>
                         </div>
                     </div>
@@ -65,7 +65,7 @@
                         <div class="col-sm-6">
                             <h2>Highly Configurable</h2>
                             <p>Our advanced settings interface lets you tweak every possible option about how the games are run and displayed.</p>
-                            <p>Of course every setting has a sane default so you can get started fast.</p>
+                            <p>Every setting has a logical default so you can be up and running in no time.</p>
                             <a class="btn btn-ra pull-right" href="index.php?page=configuration">Learn how to configure RetroArch</a>
                         </div>
                     </div>
@@ -75,9 +75,9 @@
                         <div class="col-sm-6"></div>
                         <div class="col-sm-6">
                             <h2>Joypad Auto Configuration</h2>
-                            <p>Common joypads are automatically configured when plugged, just like on a real game console.</p>
-                            <p>Ideal to start a multiplayer game when a friend visit with his own joypad.</p>
-                            <p>You can also configure everything manually to assign special actions to combos.</p>
+                            <p>Common joypads are automatically configured when plugged in, just like a real game console.</p>
+                            <p>Ideal for multiplayer games when a friend brings their own joypad.</p>
+                            <p>You can also configure joypads manually to assign special actions to button combos.</p>
                             <a class="btn btn-ra pull-right" href="index.php?page=joypad-autoconfig">Learn more about joypad configuration</a>
                         </div>
                     </div>
@@ -89,7 +89,7 @@
                             <h2>Shaders</h2>
                             <p>Shaders are efficient graphical filters that can greatly improve the rendering of old games.</p>
                             <p>They can also be used to replicate the look and feel of old CRT monitors.</p>
-                            <p>You can even stack them to create your own effect. The possibilities are infinite.</p>
+                            <p>You can even stack them to create your own effect. The possibilities are endless.</p>
                             <a class="btn btn-ra pull-right" href="index.php?page=shaders">Learn more about shaders</a>
                         </div>
                     </div>
@@ -100,7 +100,7 @@
                         <div class="col-sm-6">
                             <h2>Achievements</h2>
                             <p>Unlock achievements on your favorite classic games!</p>
-                            <p>RetroArch integrates with the RetroAchievements service to provide a trophies unlocking mechanism similar to modern web consoles.</p>
+                            <p>RetroArch integrates with the RetroAchievements service to unlock trophies and badges like modern web consoles.</p>
                             <a class="btn btn-ra pull-right" href="index.php?page=achievements">Learn more about achievements</a>
                         </div>
                     </div>
@@ -111,7 +111,7 @@
                         <div class="col-sm-6">
                             <h2>Netplay</h2>
                             <p>Host or join a network gaming session.</p>
-                            <p>Rediscover the joy of multiplayer games using RetroArch builtin netplay lobby.</p>
+                            <p>Rediscover the joy of multiplayer games using RetroArch built-in netplay lobby.</p>
                             <p>You can also use the spectator mode to watch others play.</p>
                             <a class="btn btn-ra pull-right" href="index.php?page=netplay">Learn more about netplay</a>
                         </div>
@@ -122,7 +122,7 @@
                         <div class="col-sm-6"></div>
                         <div class="col-sm-6">
                             <h2>Recording &amp; Streaming</h2>
-                            <p>RetroArch is able to record your playing session to a video file.</p>
+                            <p>RetroArch is able to record your gaming session to a video file.</p>
                             <p>The same mechanism also enables you to live stream your games to platforms like Twitch.tv or Youtube.</p>
                             <a class="btn btn-ra pull-right" href="index.php?page=recording">Learn more about recording</a>
                         </div>
