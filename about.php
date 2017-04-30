@@ -133,6 +133,34 @@
     </div>
 </div>
 
+<div id="latestcores">
+    <div class="container">
+        <h1>Latest Cores</h1>
+        <div id="latestcores-carousel" class="carousel slide" data-ride="carousel">
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+                <li data-target="#latestcores-carousel" data-slide-to="0" class="active"></li>
+            </ol>
+
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+                <div class="item active">
+                    <div class="row">
+                        <div class="col-sm-6"><img src="images/openlara.jpg"></div>
+                        <div class="col-sm-6">
+                            <h2>OpenLara</h2>
+                            <p>OpenLara has been ported to libretro, and will be published on the buildbot soon!</p>
+                            <p>This is a Tomb Raider game engine recreation, and it uses the original data files in order to work.
+                                What is nice about this one is that it has some very fancy graphics effects that it adds
+                                on top of the old game engine without it resulting in any stylistic clashes.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
 <div id="news">
     <div class="container">
         <h1>News</h1>

@@ -72,11 +72,13 @@ h1 {
     margin-bottom: 30px;
 }
 
-#features {
+#features,
+#latestcores {
     padding: 30px 0;
 }
 
-#features-carousel {
+#features-carousel,
+#latestcores-carousel, {
     border-radius: 5px;
     overflow: hidden;
 }
@@ -92,11 +94,30 @@ h1 {
     overflow: hidden;
 }
 
+#latestcores .item {
+    font-size: 14px;
+    background-position: 0;
+    background-repeat: no-repeat;
+    background-size: auto 100%;
+    overflow: hidden;
+}
+
 #features .item h2 {
     font-size: 18px;
     margin-bottom: 18px;
     padding-bottom: 5px;
     border-bottom: solid 1px white;
+}
+
+#latestcores .item h2 {
+    font-size: 18px;
+    margin-bottom: 18px;
+    padding-bottom: 5px;
+    border-bottom: solid 1px black;
+}
+
+#latestcores .item img {
+    width: 100%;
 }
 
 .btn-ra {
@@ -188,6 +209,16 @@ h1 {
         margin-bottom: 22px;
     }
 
+    #latestcores .item {
+        font-size: 16px;
+    }
+
+    #latestcores .item h2 {
+        font-size: 22px;
+        margin-bottom: 22px;
+        margin-top: 0;
+    }
+
     .btn-ra {
         margin: 22px 0;
     }
@@ -206,6 +237,16 @@ h1 {
     #features .item h2 {
         font-size: 30px;
         margin-bottom: 30px;
+    }
+
+    #latestcores .item {
+        font-size: 20px;
+    }
+
+    #latestcores .item h2 {
+        font-size: 30px;
+        margin-bottom: 30px;
+        margin-top: 0;
     }
 
     .btn-ra {
