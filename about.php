@@ -144,8 +144,8 @@
             </ol>
 
             <!-- Wrapper for slides -->
+            <p>New programs are constantly being added to RetroArch's app library. And with RetroArch's built-in Core Updater, you can download new programs directly as soon as they become available!</p>
             <div class="carousel-inner" role="listbox">
-                <p>New programs are constantly being added to RetroArch's app library. And with RetroArch's built-in Core Updater, you can download new programs directly as soon as they become available!</p>
                 <div class="item active">
                     <div class="row">
                         <div class="col-sm-6"><img src="images/openlara.jpg"></div>
