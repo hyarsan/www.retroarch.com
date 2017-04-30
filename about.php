@@ -32,6 +32,7 @@
                 <li data-target="#features-carousel" data-slide-to="5"></li>
                 <li data-target="#features-carousel" data-slide-to="6"></li>
                 <li data-target="#features-carousel" data-slide-to="7"></li>
+                <li data-target="#features-carousel" data-slide-to="8"></li>
             </ol>
 
             <!-- Wrapper for slides -->
@@ -128,6 +129,17 @@
                         </div>
                     </div>
                 </div>
+                <div class="item cores">
+                    <div class="row">
+                        <div class="col-sm-6"></div>
+                        <div class="col-sm-6">
+                            <h2>Expanding app library</h2>
+                            <p>New programs are constantly being added to RetroArch's app library.</p>
+                            <p>And with RetroArch's built-in Core Updater, you can download new programs directly as soon as they become available!.</p>
+                            <a class="btn btn-ra pull-right" href="index.php?page=recording">Learn more about the core ecosystem</a>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -136,7 +148,7 @@
 <div id="latestcores">
     <div class="container">
         <h1>Latest Cores</h1>
-                    <p><b>New programs are constantly being added to RetroArch's app library. And with RetroArch's built-in Core Updater, you can download new programs directly as soon as they become available!</b></p>
+                    <p><b> </b></p>
         <div id="latestcores-carousel" class="carousel slide" data-ride="carousel">
             <!-- Indicators -->
             <ol class="carousel-indicators">
