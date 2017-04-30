@@ -168,6 +168,18 @@
                         </div>
                     </div>
                 </div>
+                
+                <div class="item">
+                    <div class="row">
+                        <div class="col-sm-6"><img src="images/sameboy.png"></div>
+                        <div class="col-sm-6">
+                            <h2>SameBoy</h2>
+                            <p>SameBoy is a highly accurate Game Boy/Game Boy Color emulator. It has been ported to libretro and will be published on the buildbot in the near future!</p>
+                            <p>For more information on SameBoy, visit the author's website <a href="https://sameboy.github.io/">here</a>.</p>
+                            <p></p>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
