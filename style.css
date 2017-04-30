@@ -140,6 +140,10 @@ h1 {
     background-color: #33454f;
 }
 
+#features .item.cores {
+    background-color: #00468d;
+}
+
 #features .item.joypad-autoconfig {
     background-color: #6c6db0;
 }
@@ -167,6 +171,10 @@ h1 {
 
     #features .item.cross-platform {
         background-image: url(images/cross-platform.png);
+    }
+    
+    #features .item.cores {
+        background-image: url(images/cores.png);
     }
 
     #features .item.customizable {
