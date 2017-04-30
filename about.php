@@ -162,8 +162,8 @@
                     <div class="row">
                         <div class="col-sm-6"><img src="images/dolphin.jpg"></div>
                         <div class="col-sm-6">
-                            <h2>Dolphin comming soon</h2>
-                            <p>Dolphin is a Wii and Gamecube emulator.</p>
+                            <h2>Dolphin coming soon</h2>
+                            <p>Dolphin is a Wii and Gamecube emulator. It has been ported to libretro and will be published on the buildbot in the near future! It will be available for the Windows, macOS and Linux platforms.</p>
                             <p></p>
                         </div>
                     </div>
