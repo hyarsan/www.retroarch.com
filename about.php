@@ -140,6 +140,7 @@
             <!-- Indicators -->
             <ol class="carousel-indicators">
                 <li data-target="#latestcores-carousel" data-slide-to="0" class="active"></li>
+                <li data-target="#latestcores-carousel" data-slide-to="1"></li>
             </ol>
 
             <!-- Wrapper for slides -->
@@ -153,6 +154,17 @@
                             <p>This is a Tomb Raider game engine recreation, and it uses the original data files in order to work.
                                 What is nice about this one is that it has some very fancy graphics effects that it adds
                                 on top of the old game engine without it resulting in any stylistic clashes.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="item">
+                    <div class="row">
+                        <div class="col-sm-6"><img src="images/dolphin.jpg"></div>
+                        <div class="col-sm-6">
+                            <h2>Dolphin comming soon</h2>
+                            <p>Dolphin is a Wii and Gamecube emulator.</p>
+                            <p></p>
                         </div>
                     </div>
                 </div>
