@@ -136,6 +136,7 @@
 <div id="latestcores">
     <div class="container">
         <h1>Latest Cores</h1>
+                    <p>New programs are constantly being added to RetroArch's app library. And with RetroArch's built-in Core Updater, you can download new programs directly as soon as they become available!</p>
         <div id="latestcores-carousel" class="carousel slide" data-ride="carousel">
             <!-- Indicators -->
             <ol class="carousel-indicators">
@@ -144,7 +145,6 @@
             </ol>
 
             <!-- Wrapper for slides -->
-            <p>New programs are constantly being added to RetroArch's app library. And with RetroArch's built-in Core Updater, you can download new programs directly as soon as they become available!</p>
             <div class="carousel-inner" role="listbox">
                 <div class="item active">
                     <div class="row">
