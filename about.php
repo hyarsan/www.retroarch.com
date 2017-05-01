@@ -136,7 +136,7 @@
                             <h2>Expanding app library</h2>
                             <p>New programs are constantly being added to RetroArch's app library.</p>
                             <p>And with RetroArch's built-in Core Updater, you can download new programs directly as soon as they become available!</p>
-                            <a class="btn btn-ra pull-right" href="index.php?page=recording">Learn more about the core ecosystem</a>
+                            <a class="btn btn-ra pull-right" href="index.php?page=cores">Learn more about the core ecosystem</a>
                         </div>
                     </div>
                 </div>
