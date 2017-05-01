@@ -36,7 +36,7 @@
                 <p>Some cores, like 2048, do not require any content in order to work. In this case, after you have loaded the core, 'Start Core' will appear inside the main menu. Select this to start the core directly.</p>
             </div>
             <div class="col-md-6">
-                <img src="images/audio-settings.png">
+                <img src="images/load-core.png">
             </div>
         </div>
 
