@@ -86,7 +86,7 @@
                 <div class="platform">
                     <img src="images/ps3.png">
                     <h4>PlayStation 3</h4>
-                    <a href="#">Download</a>
+                    <a href="http://xbins.org/">Download</a>
                     <a href="#">Installation instructions</a>
                     <a href="https://buildbot.libretro.com/docs/compilation/ps3/">Compilation instructions</a>
                 </div>
@@ -115,7 +115,7 @@
                 <div class="platform">
                     <img src="images/xbox.png">
                     <h4>Xbox</h4>
-                    <a href="#">Download (XDK)</a>
+                    <a href="http://xbins.org/">Download (XDK)</a>
                     <a href="#">Installation instructions</a>
                     <a href="https://buildbot.libretro.com/docs/compilation/xbox/">Compilation instructions</a>
                 </div>
@@ -124,7 +124,7 @@
                 <div class="platform">
                     <img src="images/xbox360.png">
                     <h4>Xbox 360</h4>
-                    <a href="#">Download (XeXDK)</a>
+                    <a href="http://xbins.org/">Download (XeXDK)</a>
                     <a href="#">Installation instructions</a>
                     <a href="https://buildbot.libretro.com/docs/compilation/xbox360/">Compilation instructions</a>
                 </div>
