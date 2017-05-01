@@ -4,6 +4,8 @@
             <div class="col-md-12 abstract">
                 <h1>Cores</h1>
                 <p>RetroArch is a modular program that runs emulators and games within its framework as if they were 'plugins'.</p>
+                <p>These plugins are called 'cores', and you need to install them inside RetroArch to be able to use them.</p>
+                <p>These cores can also be used in other programs that implement the Application Interface that RetroArch makes use of. This Application Interface is called 'Libretro'.</p>
             </div>
         </div>
     </div>
