@@ -5,6 +5,7 @@
                 <h1>Cross Platform</h1>
                 <p>RetroArch can run on the usual platforms like Windows, Mac OS X and Linux.</p>
                 <p>It also runs on Apple and Android for tablets and phones, as well as on game consoles like PS3, PSP, PS Vita, Wii, Wii U and more!</p>
+                <p>The current stable version is: 1.5.0</p>
             </div>
         </div>
     </div>
@@ -29,9 +30,9 @@
                     <h4>Windows</h4>
                     <a href="https://buildbot.libretro.com/stable/1.5.0/windows/x86/RetroArch.7z">Download (32bit)</a>
                     <a href="https://buildbot.libretro.com/stable/1.5.0/windows/x86_64/RetroArch.7z">Download (64bit)</a>
-                    <a href="https://buildbot.libretro.com/docs/compilation/windows98/">Compilation instructons (Windows 98/2000 - Visual Studio 2005)</a>
-                    <a href="https://buildbot.libretro.com/docs/compilation/windowsXP/">Compilation instructons (Windows XP - Visual Studio 2010)</a>
-                    <a href="https://buildbot.libretro.com/docs/compilation/windows/">Compilation instructons (Windows Vista and later - MinGW-W64 MSYS2)</a>
+                    <a href="https://buildbot.libretro.com/docs/compilation/windows98/">Compilation instructions (Windows 98/2000 - Visual Studio 2005)</a>
+                    <a href="https://buildbot.libretro.com/docs/compilation/windowsXP/">Compilation instructions (Windows XP - Visual Studio 2010)</a>
+                    <a href="https://buildbot.libretro.com/docs/compilation/windows/">Compilation instructions (Windows Vista and later - MinGW-W64 MSYS2)</a>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
