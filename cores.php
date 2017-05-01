@@ -30,40 +30,15 @@
 
         <div class="row imagegrid">
             <div class="col-md-6">
-                <h2>Audio Settings</h2>
-                <p>In Audio Settings, you can adjust the audio volume and choose which audio device RetroArch will output to. This is useful if you plug an HDMI screen to your laptop.</p>
-                <p>Advanced users can tweak the audio synchronization. Audio sync is very important in RetroArch because the games speed is computed based on the audio code.</p>
-                <p>You can also choose a DSP plugin to add effects like <b>echo</b> or <b>reverb</b> to the game audio.</p>
+                <h2>Loading cores</h2>
+                <p>Once a core is installed, you can load a core by going to the Main Menu and selecting 'Load Core'. Every core that has been installed already will be shown in a list.</p>
+                <p>After you have made your choice, you can then select the 'content' for that core by going to 'Load Content'. The content that is supported by the core will be shown inside the file browser.</p>
+                <p>Some cores, like 2048, do not require any content in order to work. In this case, after you have loaded the core, 'Start Core' will appear inside the main menu. Select this to start the core directly.</p>
             </div>
             <div class="col-md-6">
                 <img src="images/audio-settings.png">
             </div>
         </div>
-
-        <div class="row imagegrid">
-            <div class="col-md-6">
-                <h2>Input Settings</h2>
-                <p>This is the place to configure your mouse, keyboard and/or joypads. You can choose between <a href="index.php?page=joypad-autoconfig">Joypad autoconfiguration</a> or manual binding.</p>
-                <p>You can bind actions like <b>Fast forward</b> or <b>Save state</b> to keyboard keys and joypad buttons. A good idea is to map these actions on the joypad while setting one of the button to the <b>Hotkey function</b>. This way, pressing Hotkey plus a button will perform an action, but you will still be able to use this button in the game.</p>
-            </div>
-            <div class="col-md-6">
-                <img src="images/input-settings.png">
-            </div>
-        </div>
-
-        <div class="row imagegrid">
-            <div class="col-md-6">
-                <h2>Playlists Settings</h2>
-                <p>In this section, you can attribute a default core to a playlist.</p>
-                <p>This is useful for per-system playlists when you already know what emulator you want to use to launch the games of a given playlist.</p>
-                <p>If you don't set any default core, RetroArch will ask you which core you want to use on a playlist entry basis.</p>
-            </div>
-            <div class="col-md-6">
-                <img src="images/playlists-settings.png">
-            </div>
-        </div>
-
-
 
 
     </div>
