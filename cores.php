@@ -39,6 +39,17 @@
                 <img src="images/load-core.png">
             </div>
         </div>
+        
+         <div class="row imagegrid">
+            <div class="col-md-6">
+                <h2>Keeping cores up-to-date</h2>
+                <p>The libretro core library keeps getting bigger over time, and there is always something new that gets added to our servers. So be sure to visit the 'Update Cores' section daily on RetroArch. Cores get added and/or updated constantly!</p>
+                <p>If you like to learn more about libretro, or you are a developer interested in learning how to use it for your own projects, visit the Libretro website <a href="https://www.libretro.com">here</a>.</p>
+            </div>
+            <div class="col-md-6">
+                <img src="images/libretro_logo.jpg">
+            </div>
+        </div>
 
 
     </div>
