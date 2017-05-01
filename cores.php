@@ -21,7 +21,7 @@
                 <p>You don't need to download a new version of RetroArch in order to be able to run new or updated cores!</p>
             </div>
             <div class="col-md-6">
-                <img src="images/video-settings.png">
+                <img src="images/core-updater.png">
             </div>
         </div>
 
