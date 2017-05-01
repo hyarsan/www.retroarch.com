@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 abstract">
-                <h1>Highly Configurable</h1>
+                <h1>Cores</h1>
                 <p>Our advanced settings interface lets you tweak every possible option about how the games are run and displayed.</p>
                 <p>Of course every setting has a sane default so you can get started fast.</p>
             </div>
