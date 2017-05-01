@@ -1,3 +1,5 @@
+ <?php $version = 1.5.0 ?>
+
 <div id="welcome">
     <div class="container">
         <div class="row">
@@ -5,7 +7,7 @@
                 <h1>Cross Platform</h1>
                 <p>RetroArch can run on the usual platforms like Windows, Mac OS X and Linux.</p>
                 <p>It also runs on Apple and Android for tablets and phones, as well as on game consoles like PS3, PSP, PS Vita, Wii, Wii U and more!</p>
-                <p>The current stable version is: 1.5.0</p>
+                <p>The current stable version is: <?php $version ?></p>
             </div>
         </div>
     </div>
