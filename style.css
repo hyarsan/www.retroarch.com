@@ -120,6 +120,14 @@ h1 {
     width: 100%;
 }
 
+#latestcores .carousel-indicators li {
+    border-color: black;
+}
+
+#latestcores .carousel-indicators li.active {
+    background-color: black;
+}
+
 .btn-ra {
     background: rgba(255, 255, 255, 0.2);
     border-color: white;
