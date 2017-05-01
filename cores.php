@@ -3,8 +3,7 @@
         <div class="row">
             <div class="col-md-12 abstract">
                 <h1>Cores</h1>
-                <p>Our advanced settings interface lets you tweak every possible option about how the games are run and displayed.</p>
-                <p>Of course every setting has a sane default so you can get started fast.</p>
+                <p>RetroArch is a modular program that runs emulators and games within its framework as if they were 'plugins'.</p>
             </div>
         </div>
     </div>
@@ -15,11 +14,11 @@
 
         <div class="row imagegrid">
             <div class="col-md-6">
-                <h2>Video Settings</h2>
-                <p>In Video Settings, you can adjust how the games will be displayed.</p>
-                <p>You can configure the size and aspect ratio of the window or the full screen viewport.</p>
-                <p>By default, RetroArch will try to use the available space of your screen while maintaining the aspect ratio of the emulated system.</p>
-                <p>Advanced users can also tweak the vertical synchronization and the buffering mode.</p>
+                <h2>Online updating/downloading of cores</h2>
+                <p>On most platforms (except game consoles and certain mobile platforms), RetroArch comes with dynamic module loading support.</p>
+                <p>On these systems, you will be able to install and/or update new cores as they become available on our buildbot.</p>
+                <p>To access these, go to RetroArch's main menu, select 'Online Updater', and then select 'Update Cores'.</p>
+                <p>You don't need to download a new version of RetroArch in order to be able to run new or updated cores!</p>
             </div>
             <div class="col-md-6">
                 <img src="images/video-settings.png">
