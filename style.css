@@ -72,9 +72,11 @@ h1 {
     margin-bottom: 30px;
 }
 
-#features,
-#latestcores {
+#features {
     padding: 30px 0;
+}
+#latestcores {
+    padding: 30px 0 0 0;
 }
 
 #features-carousel,
@@ -118,6 +120,10 @@ h1 {
 
 #latestcores .item img {
     width: 100%;
+}
+
+#latestcores-carousel {
+    padding-bottom: 80px;
 }
 
 #latestcores .carousel-indicators li {
