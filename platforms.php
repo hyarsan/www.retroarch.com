@@ -30,8 +30,8 @@
                 <div class="platform">
                     <img src="images/windows.png">
                     <h4>Windows</h4>
-                    <a href="https://buildbot.libretro.com/stable/1.5.0/windows/x86/RetroArch.7z">Download (32bit)</a>
-                    <a href="https://buildbot.libretro.com/stable/1.5.0/windows/x86_64/RetroArch.7z">Download (64bit)</a>
+                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/windows/x86/RetroArch.7z">Download (32bit)</a>
+                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/windows/x86_64/RetroArch.7z">Download (64bit)</a>
                     <a href="https://buildbot.libretro.com/docs/compilation/windows98/">Compilation instructions (Windows 98/2000 - Visual Studio 2005)</a>
                     <a href="https://buildbot.libretro.com/docs/compilation/windowsXP/">Compilation instructions (Windows XP - Visual Studio 2010)</a>
                     <a href="https://buildbot.libretro.com/docs/compilation/windows/">Compilation instructions (Windows Vista and later - MinGW-W64 MSYS2)</a>
@@ -41,7 +41,7 @@
                 <div class="platform">
                     <img src="images/apple.png">
                     <h4>Apple</h4>
-                    <a href="https://buildbot.libretro.com/stable/1.5.0/apple/osx/x86_64/RetroArch.dmg">Download (Intel)</a>
+                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/osx/x86_64/RetroArch.dmg">Download (Intel)</a>
                     <a href="#">Download (PowerPC)</a>
                     <a href="https://buildbot.libretro.com/docs/compilation/osxppc/">Compilation instructions (Intel)</a>
                     <a href="https://buildbot.libretro.com/docs/compilation/osxppc/">Compilation instructions (PowerPC)</a>
@@ -60,7 +60,7 @@
                 <div class="platform">
                     <img src="images/android.png">
                     <h4>Android</h4>
-                    <a href="https://buildbot.libretro.com/stable/1.5.0/android/RetroArch.apk">Download</a>
+                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/android/RetroArch.apk">Download</a>
                     <a href="#">Installation instructions</a>
                 </div>
             </div>
@@ -68,8 +68,8 @@
                 <div class="platform">
                     <img src="images/ios.png">
                     <h4>iOS</h4>
-                    <a href="https://buildbot.libretro.com/stable/1.5.0/apple/ios/RetroArch.zip">Download</a>
-                    <a href="https://buildbot.libretro.com/stable/1.5.0/apple/ios9/RetroArch.zip">Download (iOS9)</a>
+                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/ios/RetroArch.zip">Download</a>
+                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/ios9/RetroArch.zip">Download (iOS9)</a>
                     <a href="#">Installation instructions</a>
                     <a href="https://buildbot.libretro.com/docs/compilation/ios/">Compilation instructions</a>
                 </div>
@@ -97,7 +97,7 @@
                 <div class="platform">
                     <img src="images/psp.png">
                     <h4>PlayStation Portable</h4>
-                    <a href="https://buildbot.libretro.com/stable/1.5.0/playstation/psp/RetroArch.7z">Download</a>
+                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/playstation/psp/RetroArch.7z">Download</a>
                     <a href="#">Installation instructions</a>
                     <a href="https://buildbot.libretro.com/docs/compilation/psp/">Compilation instructions</a>
                 </div>
@@ -106,7 +106,7 @@
                 <div class="platform">
                     <img src="images/psvita.png">
                     <h4>PlayStation Vita / TV</h4>
-                    <a href="https://buildbot.libretro.com/stable/1.5.0/playstation/vita/RetroArch.7z">Download</a>
+                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/playstation/vita/RetroArch.7z">Download</a>
                     <a href="#">Installation instructions</a>
                     <a href="https://buildbot.libretro.com/docs/compilation/psvita/">Compilation instructions</a>
                 </div>
@@ -135,7 +135,7 @@
                 <div class="platform">
                     <img src="images/gc.png">
                     <h4>Gamecube</h4>
-                    <a href="https://buildbot.libretro.com/stable/1.5.0/nintendo/ngc/RetroArch.7z">Download</a>
+                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/nintendo/ngc/RetroArch.7z">Download</a>
                     <a href="#">Installation instructions</a>
                     <a href="https://buildbot.libretro.com/docs/compilation/gamecube/">Compilation instructions</a>
                 </div>
@@ -144,7 +144,7 @@
                 <div class="platform">
                     <img src="images/wii.png">
                     <h4>Wii</h4>
-                    <a href="https://buildbot.libretro.com/stable/1.5.0/nintendo/wii/RetroArch.7z">Download</a>
+                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/nintendo/wii/RetroArch.7z">Download</a>
                     <a href="#">Installation instructions</a>
                     <a href="https://buildbot.libretro.com/docs/compilation/wii/">Compilation instructions</a>
                 </div>
@@ -153,8 +153,8 @@
                 <div class="platform">
                     <img src="images/wiiu.png">
                     <h4>Wii U</h4>
-                    <a href="https://buildbot.libretro.com/stable/1.5.0/nintendo/wiiu/RetroArch.7z">Download</a>
-                    <a href="https://buildbot.libretro.com/stable/1.5.0/nintendo/wiiu/RetroArch_rpx.7z">Download (rpx)</a>
+                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/nintendo/wiiu/RetroArch.7z">Download</a>
+                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/nintendo/wiiu/RetroArch_rpx.7z">Download (rpx)</a>
                     <a href="#">Installation instructions</a>
                     <a href="https://buildbot.libretro.com/docs/compilation/wiiu/">Compilation instructions</a>
                 </div>
@@ -163,8 +163,8 @@
                 <div class="platform">
                     <img src="images/3ds.png">
                     <h4>3DS</h4>
-                    <a href="https://buildbot.libretro.com/stable/1.5.0/nintendo/3ds/RetroArch_3dsx.7z">Download (3dsx)</a>
-                    <a href="https://buildbot.libretro.com/stable/1.5.0/nintendo/3ds/RetroArch_cia.7z">Download (cia)</a>
+                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/nintendo/3ds/RetroArch_3dsx.7z">Download (3dsx)</a>
+                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/nintendo/3ds/RetroArch_cia.7z">Download (cia)</a>
                     <a href="#">Installation instructions</a>
                     <a href="https://buildbot.libretro.com/docs/compilation/3ds/">Compilation instructions</a>
                 </div>
