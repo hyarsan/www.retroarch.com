@@ -42,7 +42,7 @@
                     <img src="images/apple.png">
                     <h4>Apple</h4>
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/osx/x86_64/RetroArch.dmg">Download (Intel)</a>
-                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/osx/ppc/RetroArch.dmg">Download (PowerPC)</a>
+                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/osx/ppc/RetroArch.zip">Download (PowerPC)</a>
                     <a href="https://buildbot.libretro.com/docs/compilation/osx/">Compilation instructions (Intel)</a>
                     <a href="https://buildbot.libretro.com/docs/compilation/osxppc/">Compilation instructions (PowerPC)</a>
                 </div>
