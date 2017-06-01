@@ -1,4 +1,4 @@
- <?php $version = "1.5.0"; ?>
+ <?php $version = "1.6.0"; ?>
 
 <div id="welcome">
     <div class="container">
@@ -42,8 +42,8 @@
                     <img src="images/apple.png">
                     <h4>Apple</h4>
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/osx/x86_64/RetroArch.dmg">Download (Intel)</a>
-                    <a href="#">Download (PowerPC)</a>
-                    <a href="https://buildbot.libretro.com/docs/compilation/osxppc/">Compilation instructions (Intel)</a>
+                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/osx/ppc/RetroArch.dmg">Download (PowerPC)</a>
+                    <a href="https://buildbot.libretro.com/docs/compilation/osx/">Compilation instructions (Intel)</a>
                     <a href="https://buildbot.libretro.com/docs/compilation/osxppc/">Compilation instructions (PowerPC)</a>
                 </div>
             </div>
@@ -86,7 +86,7 @@
                 <div class="platform">
                     <img src="images/ps3.png">
                     <h4>PlayStation 3</h4>
-                    <a href="http://xbins.org/">Download</a>
+                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/playstation/ps3/RetroArch.PS3.DEX.PS3.pkg">Download (DEX)</a>
                     <a href="#">Installation instructions</a>
                     <a href="https://buildbot.libretro.com/docs/compilation/ps3/">Compilation instructions</a>
                 </div>
