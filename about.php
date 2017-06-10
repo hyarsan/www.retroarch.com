@@ -162,6 +162,19 @@
             <div class="carousel-inner" role="listbox">
                 <div class="item active">
                     <div class="row">
+                        <div class="col-sm-6"><img src="images/X68000_Black.jpg"></div>
+                        <div class="col-sm-6">
+                            <h2>PX68K</h2>
+                            <p>PX-68K is a Sharp X68000 emulator. This is a Japanese home computer from the late '80s/early '90s that was used by Capcom as devkits for their arcade games. It played host to many popular games from the likes of Namco, Konami and Capcom.</p>
+                            <p>Core available now for Windows, macOS, Linux, Android and iOS.</p>
+                            <p></p>
+                            <p>For more information, read our article on this release <a href="https://www.libretro.com/index.php/new-core-px68k-androidioswindowslinuxmac/">here</a>.</p>
+                            <p></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="row">
                         <div class="col-sm-6"><img src="images/openlara.jpg"></div>
                         <div class="col-sm-6">
                             <h2>OpenLara</h2>
@@ -191,20 +204,6 @@
                             <h2>SameBoy</h2>
                             <p>SameBoy is a highly accurate Game Boy/Game Boy Color emulator. It has been ported to libretro and will be published on the buildbot in the near future!</p>
                             <p>For more information on SameBoy, visit the author's website <a href="https://sameboy.github.io/">here</a>.</p>
-                            <p></p>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="item">
-                    <div class="row">
-                        <div class="col-sm-6"><img src="images/X68000_Black.jpg"></div>
-                        <div class="col-sm-6">
-                            <h2>PX68K</h2>
-                            <p>PX-68K is a Sharp X68000 emulator. This is a Japanese home computer from the late '80s/early '90s that was used by Capcom as devkits for their arcade games. It played host to many popular games from the likes of Namco, Konami and Capcom.</p>
-                            <p>Core available now for Windows, macOS, Linux, Android and iOS.</p>
-                            <p></p>
-                            <p>For more information, read our article on this release <a href="https://www.libretro.com/index.php/new-core-px68k-androidioswindowslinuxmac/">here</a>.</p>
                             <p></p>
                         </div>
                     </div>
