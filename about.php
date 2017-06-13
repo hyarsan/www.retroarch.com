@@ -164,7 +164,7 @@
                     <div class="row">
                         <div class="col-sm-6"><img src="images/melonds.png"></div>
                         <div class="col-sm-6">
-                            <h2>SameBoy</h2>
+                            <h2>melonDS</h2>
                             <p>melonDS is a 'work in progress' Nintendo DS emulator.</p>
                             <p>Core available now for Windows, macOS, Linux, Android and iOS.</p>
                             <p></p>
