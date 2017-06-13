@@ -162,6 +162,20 @@
             <div class="carousel-inner" role="listbox">
                 <div class="item active">
                     <div class="row">
+                        <div class="col-sm-6"><img src="images/melonds.png"></div>
+                        <div class="col-sm-6">
+                            <h2>SameBoy</h2>
+                            <p>melonDS is a 'work in progress' Nintendo DS emulator.</p>
+                            <p>Core available now for Windows, macOS, Linux, Android and iOS.</p>
+                            <p></p>
+                            <p>For more information on melonDS, visit the author's website <a href="http://melonds.kuribo64.net/">here</a>.</p>
+                            <p></p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="item">
+                    <div class="row">
                         <div class="col-sm-6"><img src="images/sameboy.png"></div>
                         <div class="col-sm-6">
                             <h2>SameBoy</h2>
