@@ -157,11 +157,26 @@
                 <li data-target="#latestcores-carousel" data-slide-to="2"></li>
                 <li data-target="#latestcores-carousel" data-slide-to="3"></li>
                 <li data-target="#latestcores-carousel" data-slide-to="4"></li>
+                <li data-target="#latestcores-carousel" data-slide-to="5"></li>
             </ol>
 
             <!-- Wrapper for slides -->
             <div class="carousel-inner" role="listbox">
-                <div class="item active">
+                 <div class="item active">
+                    <div class="row">
+                        <div class="col-sm-6"><img src="images/citra.png"></div>
+                        <div class="col-sm-6">
+                            <h2>melonDS</h2>
+                            <p>Citra is a 'work in progress' Nintendo 3DS emulator.</p>
+                            <p>Core available now for Windows and Linux. Version for macOS will be released at a later date.</p>
+                            <p></p>
+                            <p>For more information on Citra, visit the author's website <a href="https://citra-emu.org/">here</a>.</p>
+                            <p></p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="item">
                     <div class="row">
                         <div class="col-sm-6"><img src="images/melonds.png"></div>
                         <div class="col-sm-6">
