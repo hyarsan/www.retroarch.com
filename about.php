@@ -171,7 +171,7 @@
                             <p>Core available now for Windows and Linux. Version for macOS will be released at a later date.</p>
                             <p></p>
                             <p>For more information on Citra, visit the author's website <a href="https://citra-emu.org/">here</a>.</p>
-                            <p>See also our in-depth article <a href="For more information, read our article on this release here.">here</a>.</p>
+                            <p>See also our in-depth article <a href="https://www.libretro.com/index.php/new-core-citra-windowslinux/">here</a>.</p>
                         </div>
                     </div>
                 </div>
