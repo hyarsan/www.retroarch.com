@@ -166,7 +166,7 @@
                     <div class="row">
                         <div class="col-sm-6"><img src="images/citra.png"></div>
                         <div class="col-sm-6">
-                            <h2>melonDS</h2>
+                            <h2>Citra</h2>
                             <p>Citra is a 'work in progress' Nintendo 3DS emulator.</p>
                             <p>Core available now for Windows and Linux. Version for macOS will be released at a later date.</p>
                             <p></p>
