@@ -190,6 +190,22 @@
                         </div>
                     </div>
                 </div>
+
+                <div class="item">
+                    <div class="row">
+                        <div class="col-sm-6"><img src="images/openlara.jpg"></div>
+                        <div class="col-sm-6">
+                            <h2>OpenLara</h2>
+                            <p>OpenLara is an early Tomb Raider game engine recreation.</p>
+                            <p>Core available now for Windows/Linux.</p>
+                            <p>For more information, read our article on this release <a href="https://www.libretro.com/index.php/new-core-openlara-windowslinux/">here</a>.</p>
+                            <p></p>
+                            <p>It uses the original data files in order to work.
+                                What is nice about this one is that it has some very fancy graphics effects that it adds
+                                on top of the old game engine without it resulting in any stylistic clashes.</p>
+                        </div>
+                    </div>
+                </div>
                 
                 <div class="item">
                     <div class="row">
@@ -229,21 +245,6 @@
                             <p></p>
                             <p>For more information, read our article on this release <a href="https://www.libretro.com/index.php/new-core-px68k-androidioswindowslinuxmac/">here</a>.</p>
                             <p></p>
-                        </div>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="row">
-                        <div class="col-sm-6"><img src="images/openlara.jpg"></div>
-                        <div class="col-sm-6">
-                            <h2>OpenLara</h2>
-                            <p>OpenLara is an early Tomb Raider game engine recreation.</p>
-                            <p>Core available now for Windows/Linux.</p>
-                            <p>For more information, read our article on this release <a href="https://www.libretro.com/index.php/new-core-openlara-windowslinux/">here</a>.</p>
-                            <p></p>
-                            <p>It uses the original data files in order to work.
-                                What is nice about this one is that it has some very fancy graphics effects that it adds
-                                on top of the old game engine without it resulting in any stylistic clashes.</p>
                         </div>
                     </div>
                 </div>
