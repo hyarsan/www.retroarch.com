@@ -237,8 +237,11 @@
                         <div class="col-sm-6"><img src="images/openlara.jpg"></div>
                         <div class="col-sm-6">
                             <h2>OpenLara</h2>
-                            <p>OpenLara has been ported to libretro, and will be published on the buildbot soon!</p>
-                            <p>This is a Tomb Raider game engine recreation, and it uses the original data files in order to work.
+                            <p>OpenLara is an early Tomb Raider game engine recreation.</p>
+                            <p>Core available now for Windows/Linux.</p>
+                            <p>For more information, read our article on this release <a href="https://www.libretro.com/index.php/new-core-openlara-windowslinux/">here</a>.</p>
+                            <p></p>
+                            <p>It uses the original data files in order to work.
                                 What is nice about this one is that it has some very fancy graphics effects that it adds
                                 on top of the old game engine without it resulting in any stylistic clashes.</p>
                         </div>
