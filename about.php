@@ -163,7 +163,20 @@
 
             <!-- Wrapper for slides -->
             <div class="carousel-inner" role="listbox">
-                 <div class="item active">
+                <div class="item active">
+                    <div class="row">
+                        <div class="col-sm-6"><img src="images/dolphin.jpg"></div>
+                        <div class="col-sm-6">
+                            <h2>Dolphin</h2>
+                            <p>Dolphin is a Wii and Gamecube emulator. It has been ported to libretro and an alpha version of the core is available now for Windows and Linux! Version for macOS will be released at a later date.</p>
+                            <p></p>
+                            <p>For more information on Dolphin, visit the author's website <a href="http://www.dolphin-emulator.com/">here</a>.</p>
+                            <p>See also our in-depth article <a href="https://www.libretro.com/index.php/new-core-dolphin-windowslinux-alpha-release/">here</a>.</p>
+                        </div>
+                    </div>
+                </div>
+
+                 <div class="item">
                     <div class="row">
                         <div class="col-sm-6"><img src="images/citra.png"></div>
                         <div class="col-sm-6">
@@ -249,16 +262,6 @@
                     </div>
                 </div>
 
-                <div class="item">
-                    <div class="row">
-                        <div class="col-sm-6"><img src="images/dolphin.jpg"></div>
-                        <div class="col-sm-6">
-                            <h2>Dolphin coming soon</h2>
-                            <p>Dolphin is a Wii and Gamecube emulator. It has been ported to libretro and will be published on the buildbot in the near future! It will be available for the Windows, macOS and Linux platforms.</p>
-                            <p></p>
-                        </div>
-                    </div>
-                </div>
                 
             </div>
         </div>
