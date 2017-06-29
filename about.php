@@ -165,7 +165,11 @@
             <div class="carousel-inner" role="listbox">
                 <div class="item active">
                     <div class="row">
-                        <div class="col-sm-6"><img src="images/dolphin.jpg"></div>
+                        <div class="col-sm-6">
+                            <div class="embed-responsive embed-responsive-16by9">
+                                <img src="images/dolphin.jpg">
+                            </div>
+                        </div>
                         <div class="col-sm-6">
                             <h2>Dolphin</h2>
                             <p>Dolphin is a Wii and Gamecube emulator. It has been ported to libretro and an alpha version of the core is available now for Windows and Linux! Version for macOS will be released at a later date.</p>
@@ -178,7 +182,11 @@
 
                  <div class="item">
                     <div class="row">
-                        <div class="col-sm-6"><img src="images/citra.png"></div>
+                        <div class="col-sm-6">
+                            <div class="embed-responsive embed-responsive-16by9">
+                                <img src="images/citra.png">
+                            </div>
+                        </div>
                         <div class="col-sm-6">
                             <h2>Citra</h2>
                             <p>Citra is a 'work in progress' Nintendo 3DS emulator.</p>
@@ -192,7 +200,11 @@
 
                  <div class="item">
                     <div class="row">
-                        <div class="col-sm-6"><img src="images/redream.png"></div>
+                        <div class="col-sm-6">
+                            <div class="embed-responsive embed-responsive-16by9">
+                                <img src="images/redream.png">
+                            </div>
+                        </div>
                         <div class="col-sm-6">
                             <h2>Redream</h2>
                             <p>Redream is a 'work in progress' Sega Dreamcast emulator.</p>
@@ -206,7 +218,11 @@
 
                 <div class="item">
                     <div class="row">
-                        <div class="col-sm-6"><img src="images/openlara.jpg"></div>
+                        <div class="col-sm-6">
+                            <div class="embed-responsive embed-responsive-16by9">
+                                <img src="images/openlara.jpg">
+                            </div>
+                        </div>
                         <div class="col-sm-6">
                             <h2>OpenLara</h2>
                             <p>OpenLara is an early Tomb Raider game engine recreation.</p>
@@ -222,7 +238,11 @@
                 
                 <div class="item">
                     <div class="row">
-                        <div class="col-sm-6"><img src="images/melonds.png"></div>
+                        <div class="col-sm-6">
+                            <div class="embed-responsive embed-responsive-16by9">
+                                <img src="images/melonds.png">
+                            </div>
+                        </div>
                         <div class="col-sm-6">
                             <h2>melonDS</h2>
                             <p>melonDS is a 'work in progress' Nintendo DS emulator.</p>
@@ -236,7 +256,11 @@
 
                 <div class="item">
                     <div class="row">
-                        <div class="col-sm-6"><img src="images/sameboy.png"></div>
+                        <div class="col-sm-6">
+                            <div class="embed-responsive embed-responsive-16by9">
+                                <img src="images/sameboy.png">
+                            </div>
+                        </div>
                         <div class="col-sm-6">
                             <h2>SameBoy</h2>
                             <p>SameBoy is a highly accurate Game Boy/Game Boy Color emulator.</p>
@@ -250,7 +274,11 @@
 
                 <div class="item">
                     <div class="row">
-                        <div class="col-sm-6"><img src="images/X68000_Black.jpg"></div>
+                        <div class="col-sm-6">
+                            <div class="embed-responsive embed-responsive-16by9">
+                                <img src="images/X68000_Black.jpg">
+                            </div>
+                        </div>
                         <div class="col-sm-6">
                             <h2>PX68K</h2>
                             <p>PX-68K is a Sharp X68000 emulator. This is a Japanese home computer from the late '80s/early '90s that was used by Capcom as devkits for their arcade games. It played host to many popular games from the likes of Namco, Konami and Capcom.</p>
