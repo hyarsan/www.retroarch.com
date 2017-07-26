@@ -48,6 +48,6 @@
      <p>If you would like to directly fund a bounty, you can create your own bounty by going to the <a href="https://github.com/libretro">libretro Github repository</a> first, and then typing in the name of the repository inside Bountysource and specifying the amount of money you want to pledge.</p>
      <p>If you would like to contribute to our bounty funds directly (to leave it at our discretion how we will appropriate it for the bounty system), you can do so by clicking on the Bountysource logo above.</p>
      <h1>Community-funded</h1>
-     <p>It borders on cliche at this point, but it really is true - this project is wholly community-funded, and the users' continued patronage makes this project possible to continue. Server costs keep escalating, so does the amount of bandwidth we use up as more and more spinoff projects keep depending on our infrastructure. Contributions therefore are not only desired but absolutely necessary if we are to continue.</p>
+     <p>It borders on cliche at this point, but it really is true - this project is wholly community-funded, and the users' continued patronage keeps this project going. Server costs keep escalating as we expand and become bigger, so does the amount of bandwidth we use up as more and more spinoff projects keep depending on our infrastructure. Contributions therefore are not only desired but absolutely necessary if we are to continue.</p>
      </div>
 </div>
