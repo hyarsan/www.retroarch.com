@@ -17,6 +17,27 @@
      <h1>Patreon</h1>
      <p>You can pledge a monthly amount of money to our Patreon. This is the main bulk of our current support.</p>
       <a href="https://www.patreon.com/bePatron?u=4061686"><img src="images/patron.png" /></a>
+     <h1>Bitcoin</h1>
+     <div style="font-size:16px;margin:0 auto;width:300px" class="blockchain-btn"
+     data-address="1Cd7VtWyGgV8WH7G431gHhXDwvVnGPQpUB"
+     data-shared="false">
+    <div class="blockchain stage-begin">
+        <img src="https://blockchain.info/Resources/buttons/donate_64.png"/>
+    </div>
+    <div class="blockchain stage-loading" style="text-align:center">
+        <img src="https://blockchain.info/Resources/loading-large.gif"/>
+    </div>
+    <div class="blockchain stage-ready">
+         <p align="center">Please Donate To Bitcoin Address: <b>[[address]]</b></p>
+         <p align="center" class="qr-code"></p>
+    </div>
+    <div class="blockchain stage-paid">
+         Donation of <b>[[value]] BTC</b> Received. Thank You.
+    </div>
+    <div class="blockchain stage-error">
+        <font color="red">[[error]]</font>
+    </div>
+</div>
      <h1>Bountysource</h1>
      <a href="https://salt.bountysource.com/checkout/amount?team=libretro"><img src="images/bountysource.png" /></a>
      <p>We use funds from our Patreon on a periodic basis for the purpose of funding and creating new bounties. Bounties help the project accomplish its goals and to fix issues, both existing and new ones.</p>
