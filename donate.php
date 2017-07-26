@@ -14,8 +14,8 @@
 
 <div class="doc">
     <div class="container">
-     <p>
-  
+     <h1>Patreon</h1>
+     <p>You can pledge a monthly amount of money to our Patreon. This is used to help keep us financially afloat, to support our efforts, pay server costs, etc.</p>
       <a href="https://www.patreon.com/bePatron?u=4061686"><img src="images/patron.png" /></a>
-     </p></div>
+     </div>
 </div>
