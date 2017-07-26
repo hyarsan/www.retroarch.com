@@ -18,7 +18,7 @@
 <div class="doc">
     <div class="container">
      <h1>Patreon</h1>
-     <p>You can pledge a monthly amount of money to our Patreon. This is the main bulk of our current support.</p>
+     <p>You can pledge a monthly amount to our Patreon. This is the main bulk of our current support.</p>
       <a href="https://www.patreon.com/bePatron?u=4061686"><img src="images/patron.png" /></a>
      <h1>Bitcoin</h1>
      <p>Another way of supporting us is by donating some Bitcoins. These are one-off donations, suitable for when monthly recurring donations like Patreon are not an option for you.</p>
