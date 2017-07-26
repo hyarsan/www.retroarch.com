@@ -27,7 +27,7 @@
     <div class="blockchain stage-begin">
         <img src="https://blockchain.info/Resources/buttons/donate_64.png"/>
     </div>
-    <div class="blockchain stage-loading" style="text-align:center">
+    <div class="blockchain stage-loading" style="text-align:left">
         <img src="https://blockchain.info/Resources/loading-large.gif"/>
     </div>
     <div class="blockchain stage-ready">
