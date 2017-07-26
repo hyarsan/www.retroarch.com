@@ -18,11 +18,10 @@
 <div class="doc">
     <div class="container">
      <h1>Patreon</h1>
-     <p>You can pledge a monthly amount to our Patreon. This is the main bulk of our current support.</p>
       <a href="https://www.patreon.com/bePatron?u=4061686"><img src="images/patron.png" align="middle" /></a>
+     <p>You can pledge a monthly amount to our Patreon. This is the main bulk of our current support.</p>
      <h1>Bitcoin</h1>
-     <p>Another way of supporting us is by donating some Bitcoins. These are one-off donations, suitable for when monthly recurring donations like Patreon are not an option for you.</p>
-     <div style="font-size:16px;margin:0 auto;width:300px" class="blockchain-btn"
+       <div style="font-size:16px;margin:0 auto;width:300px" class="blockchain-btn"
      data-address="1Cd7VtWyGgV8WH7G431gHhXDwvVnGPQpUB"
      data-shared="false">
     <div class="blockchain stage-begin">
@@ -42,6 +41,7 @@
         <font color="red">[[error]]</font>
     </div>
 </div>
+     <p>Another way of supporting us is by donating some Bitcoins. These are one-off donations, suitable for when monthly recurring donations like Patreon are not an option for you.</p>
      <h1>Bountysource</h1>
      <a href="https://salt.bountysource.com/checkout/amount?team=libretro"><img src="images/bountysource.png" align="middle" /></a>
      <p>We use funds from our Patreon on a periodic basis for the purpose of funding and creating new bounties. Bounties help the project accomplish its goals and to fix issues, both existing and new ones.</p>
