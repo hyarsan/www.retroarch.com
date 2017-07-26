@@ -45,7 +45,7 @@
      <h1>Bountysource</h1>
      <a href="https://salt.bountysource.com/checkout/amount?team=libretro"><img src="images/bountysource.png" align="middle" /></a>
      <p>We use funds from our Patreon on a periodic basis for the purpose of funding and creating new bounties. Bounties help the project accomplish its goals and to fix issues, both existing and new ones.</p>
-     <p>If you would like to directly fund a bounty, you can create your own bounty by going to the libretro Github repository first, and then typing in the name of the repository inside Bountysource and specifying the amount of money you want to pledge.</p>
+     <p>If you would like to directly fund a bounty, you can create your own bounty by going to the <a href="https://github.com/libretro">libretro Github repository</a> first, and then typing in the name of the repository inside Bountysource and specifying the amount of money you want to pledge.</p>
      <p>If you would like to contribute to our bounty funds directly (to leave it at our discretion how we will appropriate it for the bounty system), you can do so by clicking on the Bountysource logo above.</p>
      <h1>Community-funded</h1>
      <p>It borders on cliche at this point, but it really is true - this project is wholly community-funded, and the users' continued patronage keeps this project possible to keep existing. Server costs keep escalating, so does the amount of bandwidth we use up as more and more spinoff projects keep depending on our infrastructure. Contributions therefore are not only desired but absolutely necessary if we are to continue.</p>
