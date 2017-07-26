@@ -27,12 +27,12 @@
     <div class="blockchain stage-begin">
         <img src="https://blockchain.info/Resources/buttons/donate_64.png"/>
     </div>
-    <div class="blockchain stage-loading" style="text-align:left">
+    <div class="blockchain stage-loading" style="text-align:center">
         <img src="https://blockchain.info/Resources/loading-large.gif"/>
     </div>
     <div class="blockchain stage-ready">
-         <p align="left">Please Donate To Bitcoin Address: <b>[[address]]</b></p>
-         <p align="left" class="qr-code"></p>
+         <p align="center">Please Donate To Bitcoin Address: <b>[[address]]</b></p>
+         <p align="center" class="qr-code"></p>
     </div>
     <div class="blockchain stage-paid">
          Donation of <b>[[value]] BTC</b> Received. Thank You.
@@ -47,5 +47,7 @@
      <p>We use funds from our Patreon on a periodic basis for the purpose of funding and creating new bounties. Bounties help the project accomplish its goals and to fix issues, both existing and new ones.</p>
      <p>If you would like to directly fund a bounty, you can create your own bounty by going to the libretro Github repository first, and then typing in the name of the repository inside Bountysource and specifying the amount of money you want to pledge.</p>
      <p>If you would like to contribute to our bounty funds directly (to leave it at our discretion how we will appropriate it for the bounty system), you can do so by clicking on the Bountysource logo above.</p>
+     <h1>Community-funded</h1>
+     <p>It borders on cliche at this point, but it really is true - this project is wholly community-funded, and the users' continued patronage keeps this project possible to keep existing. Server costs keep escalating, so does the amount of bandwidth we use up as more and more spinoff projects keep depending on our infrastructure.</p>
      </div>
 </div>
