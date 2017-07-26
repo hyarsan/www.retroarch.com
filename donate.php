@@ -1,5 +1,8 @@
  <?php $version = "1.6.0"; ?>
-
+<head>
+ <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
+<script type="text/javascript" src="https://blockchain.info/Resources/js/pay-now-button.js"></script>
+</head>
 <div id="welcome">
     <div class="container">
         <div class="row">
