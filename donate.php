@@ -21,6 +21,7 @@
      <p>You can pledge a monthly amount of money to our Patreon. This is the main bulk of our current support.</p>
       <a href="https://www.patreon.com/bePatron?u=4061686"><img src="images/patron.png" /></a>
      <h1>Bitcoin</h1>
+     <p>Another way of supporting us is by donating some Bitcoins. These are one-off donations, suitable for when monthly recurring donations like Patreon are not an option for you.</p>
      <div style="font-size:16px;margin:0 auto;width:300px" class="blockchain-btn"
      data-address="1Cd7VtWyGgV8WH7G431gHhXDwvVnGPQpUB"
      data-shared="false">
