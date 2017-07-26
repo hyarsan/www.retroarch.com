@@ -16,6 +16,6 @@
     <div class="container">
      <p>
   
-      <a href="https://www.patreon.com/bePatron?u=4061686"><img href="images/patron.png" /></a>
+      <a href="https://www.patreon.com/bePatron?u=4061686"><img src="images/patron.png" /></a>
      </p></div>
 </div>
