@@ -40,7 +40,7 @@
                 <div class="platform">
                     <img src="images/windowsxp.png">
                     <h4>Windows XP (and later)</h4>
-                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/windows-msvc2010/x86/RetroArch.7z">Installer (32bit)</a>
+                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/windows-msvc2010/x86/RetroArch-1.6.3-msvc2010-x86-setup.exe">Installer (32bit)</a>
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/windows-msvc2010/x86/RetroArch.7z">Download (32bit)</a>
                     <a href="https://buildbot.libretro.com/docs/compilation/windows98/">Compilation instructions (Windows 98/2000 - Visual Studio 2005)</a>
                     <a href="https://buildbot.libretro.com/docs/compilation/windowsXP/">Compilation instructions (Windows XP - Visual Studio 2010)</a>
