@@ -102,7 +102,7 @@
                     <img src="images/ps3.png">
                     <h4>PlayStation 3</h4>
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/playstation/ps3/RetroArch.PS3.DEX.PS3.pkg">Download (DEX)</a>
-                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/playstation/ps3/RetroArch.PS3.CEX.PS3.pkg">Download (CEX)</a>
+                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/playstation/ps3/RetroArch.PS3.CEX.PS3.pkg">Download (CEX) (Not available yet)</a>
                     <a href="#">Installation instructions</a>
                     <a href="https://buildbot.libretro.com/docs/compilation/ps3/">Compilation instructions</a>
                 </div>
