@@ -208,6 +208,7 @@
             </div>
         </div>
         <h2>Other downloads</h2>
+     <a href="https://play.google.com/store/apps/details?id=com.retroarch"><img src="images/en_badge_web_generic.png" /></a>
         <ul>
             <li><a href="http://buildbot.libretro.com/stable">Stable builds</a></li>
             <li><a href="http://buildbot.libretro.com/nightly">Nightly builds</a></li>
