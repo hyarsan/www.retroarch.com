@@ -29,7 +29,7 @@
             <div class="col-md-3 col-sm-6">
                 <div class="platform">
                     <img src="images/windows.png">
-                    <h4>Windows</h4>
+                    <h4>Windows (10/8/7/Vista)</h4>
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/windows/x86_64/RetroArch-1.6.3-x64-setup.exe">Installer (64bit)</a>
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/windows/x86/RetroArch-1.6.3-x86-setup.exe">Installer (32bit)</a>
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/windows/x86_64/RetroArch.7z">Download (64bit)</a>
