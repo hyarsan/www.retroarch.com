@@ -50,7 +50,7 @@
             <div class="col-md-3 col-sm-6">
                 <div class="platform">
                     <img src="images/apple.png">
-                    <h4>Apple</h4>
+                    <h4>Apple macOS / OSX</h4>
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/osx/x86_64/RetroArch.dmg">Download (Intel)</a>
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/osx/x86_64/RetroArchCg.dmg">Download (Intel) (with Cg support)</a>
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/osx/ppc/RetroArch.zip">Download (PowerPC)</a>
