@@ -42,8 +42,8 @@
                 <div class="platform">
                     <img src="images/windowsxp.png">
                     <h4>Windows XP and later</h4>
-                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/windows-msvc2010/x86/RetroArch-1.6.3-msvc2010-x86-setup.exe">Installer (32bit)</a>
-                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/windows-msvc2010/x86/RetroArch.7z">Download (32bit)</a>
+                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/windows-msvc2010/x86/RetroArch-1.6.3-msvc2010-x86-setup.exe" title="Use this is if you are running a computer with Windows XP. This is a graphical installer. If you already have RetroArch installed, this installer will simply upgrade your existing installation. NOTE: While this version will also work for Vista and up, we highly recommend you use the other Windows version instead, as your core choice will be more limited wit this version.">Installer (32bit)</a>
+                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/windows-msvc2010/x86/RetroArch.7z" title="The same as the installer version, except packaged inside a 7zip file, in case you'd like to manually update or install RetroArch somewhere. Use this if you are running a computer running Windows XP. NOTE: While this version will also work for Vista and up, we highly recommend you use the other Windows version instead, as your core choice will be more limited wit this version.">Download (32bit)</a>
                     <a href="https://buildbot.libretro.com/docs/compilation/windows98/">Compilation instructions (Windows 98/2000 - Visual Studio 2005)</a>
                     <a href="https://buildbot.libretro.com/docs/compilation/windowsXP/">Compilation instructions (Windows XP - Visual Studio 2010)</a>
                 </div>
