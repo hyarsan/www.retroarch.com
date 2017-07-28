@@ -6,7 +6,7 @@
             <div class="col-md-12 abstract">
                 <h1>Cross Platform</h1>
                 <p>RetroArch can run on the usual platforms like Windows, Mac OS X and Linux.</p>
-                <p>It also runs on Apple and Android for tablets and phones, as well as on game consoles like PS3, PSP, PS Vita, Wii, Wii U and more!</p>
+                <p>It also runs on iOS and Android for tablets and phones, as well as on game consoles like PS3, PSP, PS Vita, Wii, Wii U and more!</p>
                 <p>The current stable version is: <?php echo $version; ?></p>
             </div>
         </div>
