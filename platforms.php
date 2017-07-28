@@ -22,6 +22,7 @@
                 <div class="platform">
                     <img src="images/linux.png">
                     <h4>Linux</h4>
+                    <a href="https://www.libretro.com/index.php/retroarch-with-flatpak/">Install with Flatpak</a>
                     <a href="index.php?page=linux-instructions">Installation instructions</a>
                     <a href="https://buildbot.libretro.com/docs/compilation/ubuntu/">Compilation instructions (Ubuntu)</a>
                 </div>
