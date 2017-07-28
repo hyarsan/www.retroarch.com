@@ -30,6 +30,8 @@
                 <div class="platform">
                     <img src="images/windows.png">
                     <h4>Windows</h4>
+                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/windows/x86_64/RetroArch-1.6.3-x64-setup.exe">Installer (64bit)</a>
+                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/windows/x86/RetroArch-1.6.3-x86-setup.exe">Installer (32bit)</a>
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/windows/x86_64/RetroArch.7z">Download (64bit)</a>
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/windows/x86/RetroArch.7z">Download (32bit)</a>
                     <a href="https://buildbot.libretro.com/docs/compilation/windows/">Compilation instructions (Windows Vista and later - MinGW-W64 MSYS2)</a>
