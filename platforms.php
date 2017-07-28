@@ -56,6 +56,8 @@
                     <a href="https://buildbot.libretro.com/docs/compilation/osxppc/">Compilation instructions (PowerPC)</a>
                 </div>
             </div>
+        </div>
+        <div class="row">
             <div class="col-md-3 col-sm-6">
                 <div class="platform">
                     <img src="images/web.png">
@@ -63,8 +65,6 @@
                     <a href="https://buildbot.libretro.com/web/">Try it online</a>
                 </div>
             </div>
-        </div>
-        <div class="row">
             <div class="col-md-3 col-sm-6">
                 <div class="platform">
                     <img src="images/android.png">
