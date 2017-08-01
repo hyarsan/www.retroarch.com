@@ -144,8 +144,6 @@
                     <a href="https://buildbot.libretro.com/docs/compilation/xbox/">Compilation instructions</a>
                 </div>
             </div>
-             </div>
-
             <div class="col-md-3 col-sm-6">
                 <div class="platform">
                     <img src="images/xbox360.png">
@@ -173,6 +171,9 @@
                     <a href="https://buildbot.libretro.com/docs/compilation/wii/">Compilation instructions</a>
                 </div>
             </div>
+                       </div>
+          
+        <div class="row">
             <div class="col-md-3 col-sm-6">
                 <div class="platform">
                     <img src="images/wiiu.png">
@@ -183,9 +184,6 @@
                     <a href="https://buildbot.libretro.com/docs/compilation/wiiu/">Compilation instructions</a>
                 </div>
             </div>
-     </div>
-     
-        <div class="row">
             <div class="col-md-3 col-sm-6">
                 <div class="platform">
                     <img src="images/3ds.png">
