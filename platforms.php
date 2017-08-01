@@ -95,6 +95,8 @@
                     <a href="https://buildbot.libretro.com/docs/compilation/ios/">Compilation instructions</a>
                 </div>
             </div>
+     </div>
+                 <div class="row">
             <div class="col-md-3 col-sm-6">
                 <div class="platform">
                     <img src="images/bb.png">
@@ -103,8 +105,6 @@
                     <a href="#">Installation instructions</a>
                 </div>
             </div>
-     </div>
-        <div class="row">
             <div class="col-md-3 col-sm-6">
                 <div class="platform">
                     <img src="images/ps3.png">
@@ -133,6 +133,8 @@
                     <a href="https://buildbot.libretro.com/docs/compilation/psvita/">Compilation instructions</a>
                 </div>
             </div>
+     </div>
+                 <div class="row">
             <div class="col-md-3 col-sm-6">
                 <div class="platform">
                     <img src="images/xbox.png">
@@ -143,7 +145,7 @@
                 </div>
             </div>
              </div>
-            <div class="row">
+
             <div class="col-md-3 col-sm-6">
                 <div class="platform">
                     <img src="images/xbox360.png">
