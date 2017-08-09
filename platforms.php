@@ -81,6 +81,7 @@
                     <img src="images/android.png">
                     <h4>Android</h4>
                     <a href="https://play.google.com/store/apps/details?id=com.retroarch">Google Play</a>
+                    <a href="http://fdroid.libretro.com/">F-Droid</a>
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/android/RetroArch.apk">Download</a>
                     <a href="#">Installation instructions</a>
                 </div>
