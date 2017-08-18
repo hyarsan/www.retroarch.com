@@ -1,4 +1,4 @@
- <?php $version = "1.6.6"; ?>
+ <?php $version = "1.6.7"; ?>
 
 <div id="welcome">
     <div class="container">
@@ -63,7 +63,7 @@
                     <img src="images/apple.png">
                     <h4>Apple macOS / OSX</h4>
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/osx/x86_64/RetroArch.dmg" title="Use this if you are using a Mac with at least MacOS X 10.7 installed or later. This build does not come with Nvidia Cg support.">Download (Intel)</a>
-                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/osx/x86_64/RetroArchCg.dmg" title="Use this if you are using a Mac with at least MacOS X 10.7 installed or later. This build comes with additional Nvidia Cg support.">Download (Intel) (with Cg support)</a>
+                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/osx/x86_64/RetroArch_Cg.dmg" title="Use this if you are using a Mac with at least MacOS X 10.7 installed or later. This build comes with additional Nvidia Cg support.">Download (Intel) (with Cg support)</a>
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/osx/ppc/RetroArch.zip" title="Use this if you are using a PowerMac/Powerbook with MacOS X 10.5 installed.">Download (PowerPC)</a>
                     <a href="https://buildbot.libretro.com/docs/compilation/osx/">Compilation instructions (Intel)</a>
                     <a href="https://buildbot.libretro.com/docs/compilation/osxppc/">Compilation instructions (PowerPC)</a>
