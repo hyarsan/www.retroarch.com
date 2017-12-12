@@ -20,6 +20,10 @@
      <h1>Patreon</h1>
       <a href="https://www.patreon.com/bePatron?u=4061686"><img src="images/patron.png" align="middle" /></a>
      <p>You can pledge a monthly amount to our Patreon. This is the main bulk of our current support.</p>
+     <h1>Liberate</h1>
+     <p>You can dedicate to pledge a weekly amount to our Liberapay account. This might be an alternative if Patreon is not an option.</p>
+      <script src="https://liberapay.com/Libretro/widgets/button.js"></script>
+<noscript><a href="https://liberapay.com/Libretro/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
      <h1>Bitcoin</h1>
        <div style="font-size:16px;margin:0 auto;width:300px" class="blockchain-btn"
      data-address="1Cd7VtWyGgV8WH7G431gHhXDwvVnGPQpUB"
