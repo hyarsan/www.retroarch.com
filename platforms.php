@@ -130,7 +130,7 @@
                 <div class="platform">
                     <img src="images/psvita.png">
                     <h4>PlayStation Vita / TV</h4>
-                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/playstation/vita/RetroArch.7z">Download</a>
+                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/playstation/vita/RetroArch.vpk">Download</a>
                     <a href="#">Installation instructions</a>
                     <a href="https://buildbot.libretro.com/docs/compilation/psvita/">Compilation instructions</a>
                 </div>
