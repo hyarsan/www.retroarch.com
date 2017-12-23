@@ -37,7 +37,7 @@
                         <li><a href="https://twitter.com/libretro">Twitter</a></li>
                         <li><a href="https://www.youtube.com/user/Libretro/">Youtube</a></li>
                         <li><a href="https://docs.libretro.com/">Docs</a></li>
-                        <li><a href="https://buildbot.libretro.com/web/">Web Player</a></li>
+                        <li><a href="https://web.libretro.com/">Web Player</a></li>
                         <li><a href="https://forums.libretro.com/c/bounty-discussion">Bounties</a></li>
                         <li><a href="https://discordapp.com/invite/WzTGy5P">Discord</a></li>
                         <li <?php if ($_GET[page] == 'donate') { echo 'class="active"'; } ?>><a href="index.php?page=donate">Donate</a></li>
