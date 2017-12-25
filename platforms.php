@@ -213,8 +213,7 @@
                 <div class="platform">
                     <img src="images/rpi.png">
                     <h4>Raspberry Pi</h4>
-                    <a href="#">Download</a>
-                    <a href="#">Installation instructions</a>
+                    <a href="http://www.lakka.tv/get/">Download Lakka</a>
                 </div>
             </div>
 
@@ -222,8 +221,7 @@
                 <div class="platform">
                     <img src="images/pandora.png">
                     <h4>Open Pandora</h4>
-                    <a href="#">Download</a>
-                    <a href="#">Installation instructions</a>
+                    <a href="#">Currently unavailable (N/A)</a>
                 </div>
             </div>
                          </div>
@@ -232,8 +230,7 @@
                 <div class="platform">
                     <img src="images/gcw0.png">
                     <h4>GCW Zero</h4>
-                    <a href="#">Download</a>
-                    <a href="#">Installation instructions</a>
+                    <a href="#">Currently unavailable (N/A)</a>
                 </div>
             </div>
         </div>
