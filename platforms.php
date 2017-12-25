@@ -46,7 +46,9 @@
                     <a href="https://buildbot.libretro.com/docs/compilation/windowsXP/">Compilation instructions (Windows XP - Visual Studio 2010)</a>
                 </div>
             </div>
-                         <div class="col-md-3 col-sm-6">
+     </div>
+             <div class="row">
+             <div class="col-md-3 col-sm-6">
                 <div class="platform">
                     <img src="images/windows98.png">
                     <h4>Windows 98 SE / ME / 2000</h4>
@@ -55,8 +57,6 @@
                     <a href="https://buildbot.libretro.com/docs/compilation/windows98/">Compilation instructions (Windows 98/2000 - Visual Studio 2005)</a>
                 </div>
             </div>
-     </div>
-             <div class="row">
             <div class="col-md-3 col-sm-6">
                 <div class="platform">
                     <img src="images/windows98.png">
