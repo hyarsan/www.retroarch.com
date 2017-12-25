@@ -26,6 +26,6 @@
         <pre>flatpak remote-add --user --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo</pre>
         <pre>flatpak install --user flathub org.libretro.RetroArch</pre>
         <p>Update to the latest stable:</p>
-        <pre>flatpak update --user</pre>
+        <pre>flatpak update --user org.libretro.RetroArch</pre>
     </div>
 </div>
