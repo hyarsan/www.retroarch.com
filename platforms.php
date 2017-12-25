@@ -217,8 +217,7 @@
                     <a href="#">Installation instructions</a>
                 </div>
             </div>
-              </div>
-                 <div class="row">
+
             <div class="col-md-3 col-sm-6">
                 <div class="platform">
                     <img src="images/pandora.png">
@@ -227,6 +226,8 @@
                     <a href="#">Installation instructions</a>
                 </div>
             </div>
+                         </div>
+                 <div class="row">
             <div class="col-md-3 col-sm-6">
                 <div class="platform">
                     <img src="images/gcw0.png">
