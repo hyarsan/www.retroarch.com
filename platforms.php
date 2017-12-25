@@ -137,6 +137,8 @@
                     <a href="https://buildbot.libretro.com/docs/compilation/psp/">Compilation instructions</a>
                 </div>
             </div>
+              </div>
+                           <div class="row">
             <div class="col-md-3 col-sm-6">
                 <div class="platform">
                     <img src="images/psvita.png">
@@ -146,8 +148,6 @@
                     <a href="https://buildbot.libretro.com/docs/compilation/psvita/">Compilation instructions</a>
                 </div>
             </div>
-     </div>
-                 <div class="row">
             <div class="col-md-3 col-sm-6">
                 <div class="platform">
                     <img src="images/xbox.png">
