@@ -32,8 +32,8 @@
                     <ul class="nav navbar-nav">
                         <li <?php if ($_GET[page] != 'platforms' && $_GET[page] != 'donate') { echo 'class="active"'; } ?>><a href="index.php">About</a></li>
                         <li><a href="https://www.libretro.com/index.php/category/blog/">News</a></li>
-                        <li <?php if ($_GET[page] == 'platforms') { echo 'class="active"'; } ?>><a href="index.php?page=platforms">Download</a></li>
-                        <li><a href="http://libretro.com/forums/">Forums</a></li>
+                        <li <?php if ($_GET[page] == 'platforms') { echo 'class="active"'; } ?>><a href="https://www.retroarch.com/index.php?page=platforms">Download</a></li>
+                        <li><a href="https://forums.libretro.com/">Forums</a></li>
                         <li><a href="https://twitter.com/libretro">Twitter</a></li>
                         <li><a href="https://www.youtube.com/user/Libretro/">Youtube</a></li>
                         <li><a href="https://docs.libretro.com/">Docs</a></li>
