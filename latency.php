@@ -2,8 +2,9 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 abstract">
-                <h1>Cutting-edge</h1>
-                <p>RetroArch is a cutting-edge program that supports many of the latest new technologies in the software industry to help significantly improve your gameplay experience.</p>
+                <h1>Latency</h1>
+                <p>RetroArch is capable of next-frame responsive time. This means that there should be no nearly no perceivable difference in terms of input latency from real hardware, FPGA/clone or original hardware.</p>
+                <p>On top of all that, there are various settings you can configure to optimize the results even more.</p>
             </div>
         </div>
     </div>
@@ -11,7 +12,7 @@
 
 <div class="doc">
     <div class="container">
-        <h2>Latency</h2>
+        <h2>Next-frame response time indstinguishable from real hardware</h2>
         <p>RetroArch is truly in a league of its own when it comes to input responsiveness, and it keeps confounding even us here at Libretro. Several independent researchers did their own research on RetroArch's latency and came away being quite blown away by the results, completely shattering several long-held myths that up until now had been accepted as gospel in emulation circles:</p>
         <p>
         <ul>
