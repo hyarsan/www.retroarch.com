@@ -43,6 +43,7 @@
                               "[With RetroArch], it is possible to get to the same input lag as the original hardware, which may be as little as whatever is left of the current frame. At 60fps (16ms) this could be anywhere from 0ms to 16ms, which averages out to about 8ms. There is no room for improvement above that as far as the software is concerned."
                           </blockquote>
     </div>
+       <h2>Configurable latency mitigation tools</h2>
     <p>RetroArch provides you with the tools you need to combat latency in your games. This includes options such as:</p>
     <ul>
         <li>Frame Delay: </li>
