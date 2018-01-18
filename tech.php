@@ -38,5 +38,9 @@
                           <blockquote>
                               "Ever since I tried Retroarch for the first time there was no doubt in my mind that it was the future. It overcame the crippling input lag that plagues many stand alone emulators."
                           </blockquote>
+                          
+                          <blockquote>
+                              "[With RetroArch], it is possible to get to the same input lag as the original hardware, which may be as little as whatever is left of the current frame. At 60fps (16ms) this could be anywhere from 0ms to 16ms, which averages out to about 8ms. There is no room for improvement above that as far as the software is concerned."
+                          </blockquote>
     </div>
 </div>
