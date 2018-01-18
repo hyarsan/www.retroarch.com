@@ -46,7 +46,10 @@
        <h2>Configurable latency mitigation tools</h2>
     <p>RetroArch provides you with the tools you need to combat latency in your games. This includes options such as:</p>
     <ul>
-        <li>Frame Delay: </li>
-        <li>Synchronization Fences (GPU Hard Sync): </li>
+        <li>Frame Delay</li>
+        <li>Synchronization Fences (GPU Hard Sync)</li>
+        <li>Video drivers for new graphics technology APIs like Vulkan, which can drive latency down even further.</li>
+        <li>Adjustable audio buffering for lower/higher audio latency</li>
+        <li>Adjustable audio resampler quality</li>
     </ul>
 </div>
