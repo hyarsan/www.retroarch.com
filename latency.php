@@ -55,6 +55,7 @@
         <li>You can choose between different audio drivers which can have an effect on overall perceived latency<ul><li>Windows: You can choose between WASAPI (available since Windows 7), XAudio (available since Windows XP), and DirectSound.</li><li>Linux: Depending on the build, you can choose between ALSA, PulseAudio, OSS, and audio servers like JACK.</li></ul></li>
         <li>Adjustable audio buffering for lower/higher audio latency</li>
         <li>Adjustable audio resampler quality</li>
+        <li>Several video context drivers to choose from<ul><li>Linux: Some video driver contexts like DRM/KMS on Linux allow for granular swapchain control, which should allow for an even better gameplay experience. It also allows you to boot RetroArch without an active X Server running (assuming your video driver supports this).</li><li>Wayland is supported on Linux. This is an advanced display server that is being increasingly pushed as a replacement for X11. Note that whether or not you can use this depends on your video driver.</li></ul></li>
         <li>Ability to turn off window compositing for better latency results (NOTE: This is only possible on Windows 7, Microsoft disallows this on Windows 8 and later)</li>
         <li>Configurable swap interval</li>
     </ul>
