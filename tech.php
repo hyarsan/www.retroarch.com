@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-md-12 abstract">
                 <h1>Cutting-edge</h1>
-                <p>RetroArch is a cutting-edge program that supports many of the latest new technologies in the software industry.</p>
+                <p>RetroArch is a cutting-edge program that supports many of the latest new technologies in the software industry to help significantly improve your gameplay experience.</p>
             </div>
         </div>
     </div>
