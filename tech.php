@@ -50,7 +50,7 @@
         <li>Synchronization Fences (GPU Hard Sync)</li>
         <li>Video drivers for new graphics technology APIs like Vulkan, which can drive latency down even further.</li>
         <li>Maximum amount of configurable swap chains.
-            <ul><li>Can be set from 1 to 3 depending on your video driver, your GPU, and the video context driver that is being used by RetroArch. Vulkan supports this feature natively, but video drivers might not implement setting lower max swapchains.</li></ul></li>
+            <ul><li>Can be set from 1 to 3 depending on your video driver, your GPU, and the video context driver that is being used by RetroArch.</li><li>Vulkan supports this feature natively, but video drivers might not implement setting lower max swapchains.</li></ul></li>
         <li>Adjustable audio buffering for lower/higher audio latency</li>
         <li>Adjustable audio resampler quality</li>
         <li>Configurable swap interval</li>
