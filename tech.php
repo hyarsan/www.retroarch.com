@@ -54,6 +54,7 @@
         <li>You can choose between different audio drivers which can have an effect on overall perceived latency<ul><li>Windows: You can choose between WASAPI (available since Windows 7), XAudio (available since Windows XP), and DirectSound.</li><li>Linux: Depending on the build, you can choose between ALSA, PulseAudio, OSS, and audio servers like JACK.</li></ul></li>
         <li>Adjustable audio buffering for lower/higher audio latency</li>
         <li>Adjustable audio resampler quality</li>
+        <li>Ability to turn off window compositing for better latency results (NOTE: This is only possible on Windows 7, Microsoft disallows this on Windows 8 and later)</li>
         <li>Configurable swap interval</li>
     </ul>
 </div>
