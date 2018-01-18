@@ -28,6 +28,14 @@
 <p>Check out Brunnis' findings here on our forum and participate, don't just take our word for it! Link <a href="https://forums.libretro.com/t/an-input-lag-investigation/4407/534">here</a>.
     </p>
     
+            <div class="row imagegrid">
+            <div class="col-md-6">
+                <video width="100%" controls>
+                    <source src="https://www.youtube.com/watch?v=lBwLSPbHWoc" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video> 
+            </div>
+    
         <h2>Downloading and upgrading shaders</h2>
         <p>You can download or upgrade the shader packs for the 3 types in <b>Main Menu->Online Updater</b>.</p>
     </div>
