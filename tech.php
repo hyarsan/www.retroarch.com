@@ -52,5 +52,6 @@
         <li>Maximum amount of configurable swap chains. Can be set from 1 to 3 depending on your video driver, your GPU, and the video context driver that is being used by RetroArch. Vulkan supports this feature natively, but video drivers might not implement setting lower max swapchains.</li>
         <li>Adjustable audio buffering for lower/higher audio latency</li>
         <li>Adjustable audio resampler quality</li>
+        <li>Configurable swap interval</li>
     </ul>
 </div>
