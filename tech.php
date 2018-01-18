@@ -2,10 +2,8 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 abstract">
-                <h1>Shaders</h1>
-                <p>Shaders are efficient graphics filters that can greatly improve the rendering of old games.</p>
-                <p>They can also be used to replicate the look and feel of old CRT monitors.</p>
-                <p>You can even stack them to create your own effect. The possibilities are infinite.</p>
+                <h1>Cutting-edge</h1>
+                <p>RetroArch is a cutting-edge program that supports many of the latest new technologies in the software industry.</p>
             </div>
         </div>
     </div>
@@ -13,82 +11,24 @@
 
 <div class="doc">
     <div class="container">
-        <h2>Presentation</h2>
-        <p>RetroArch is shipped with a lot of shaders. There is an overwhelming array of them and we can't show all of them on this page.</p>
-
-        <p>Here are a few common examples:</p>
-
-        <div class="row imagegrid">
-            <div class="col-md-4 col-sm-6"><img src="images/shader-ex-1.png"></div>
-            <div class="col-md-4 col-sm-6"><img src="images/shader-ex-2.png"></div>
-            <div class="col-md-4 col-sm-6"><img src="images/shader-ex-3.png"></div>
-            <div class="col-md-4 col-sm-6"><img src="images/shader-ex-4.png"></div>
-            <div class="col-md-4 col-sm-6"><img src="images/shader-ex-5.png"></div>
-            <div class="col-md-4 col-sm-6"><img src="images/shader-ex-6.png"></div>
-        </div>
-
-        <p>Shaders can also be used to display the handheld border:</p>
-
-        <div class="row imagegrid">
-            <div class="col-md-4"><img src="images/shader-console-1.png"></div>
-            <div class="col-md-4"><img src="images/shader-console-2.png"></div>
-            <div class="col-md-4"><img src="images/shader-console-3.png"></div>
-        </div>
-
-        <h2>Shader languages and shader presets</h2>
-        <p>Shaders are small programs, and they are written in specific programming languages. RetroArch supports 3 of these languages:</p>
+        <h2>Latency</h2>
+        <p>RetroArch is truly in a league of its own when it comes to input responsiveness, and it keeps blowing away even us here at Libretro, to the degree that independent researchers start researching quite how good RetroArch can be and completely shattering several myths that have long been accepted as gospel in emulation circles:</p>
+        <p>
         <ul>
-            <li><b>CG:</b> the prefered format, when available on your platform</li>
-            <li><b>GLSL:</b> these shaders are working on a wide range of platforms including phones and tablets</li>
-            <li><b>Slang:</b> shaders compatible with the new Vulkan renderer</li>
+            <li>That emulation will always have an implicit 3 to 5 frames of input lag, and that therefore FPGA-based hardware will always hold a distinct advantage over software-based emulation.</li>
+            <li>That there's nothing one can do to avoid this</li>
         </ul>
-        <p>Depending on your platform and the way you have configured RetroArch, you need to use one of these shader types.</p>
-        <p>RetroArch is also able to stack these shaders to create a combined effect. These complex effects are saved with a special extension:</p>
-        <ul>
-            <li>.cpg for CG</li>
-            <li>.glslp for GLSL</li>
-            <li>.slangp for Slang</li>
-        </ul>
-
-        <p>The shader presets can also have parameters. This means that you can tweak them to fit your needs.</p>
-
+        </p>
+        <p>RetroArch shatters these myths. It has been demonstratedy by independent researchers that a next-frame response time (≤16ms!) achievable with RetroArch! This means zero frames of input lag is achievable, indistinguishable from real hardware.</p>
+   <p>
+       <blockquote>
+           "With Pitfall, I witnessed a response on the very next frame. In the video linked above, you can clearly see me hit the button near the end of one frame, and on the next, Harry jumps! Essentially no way to improve compared to original hardware. Pack it up. We’re done here"
+    </blockquote>
+    <p>So, whoever told you that input lag was a given with emulators and that you needed FPGA in order to avoid this latency, should get him/herself acquainted with RetroArch. Post-RetroArch, latency indistinguishable from real hardware is perfectly possible! 
+<p>Check out Brunnis' findings here on our forum and participate, don't just take our word for it! Link <a href="https://forums.libretro.com/t/an-input-lag-investigation/4407/534">here</a>.
+    </p>
+    
         <h2>Downloading and upgrading shaders</h2>
         <p>You can download or upgrade the shader packs for the 3 types in <b>Main Menu->Online Updater</b>.</p>
-
-        <div class="row imagegrid">
-            <div class="col-md-6">
-                <video width="100%" controls>
-                    <source src="videos/load-shader.webm" type="video/webm">
-                    <source src="videos/load-shader.mp4" type="video/mp4">
-                    Your browser does not support the video tag.
-                </video> 
-            </div>
-            <div class="col-md-6">
-                <h2>Loading a shader preset</h2>
-                <p>To enable a shader preset, you need to have a game&nbsp;running.</p>
-                <p>You then trigger the menu and you should see a Shaders entry in the <b>Quick&nbsp;Menu</b>.</p>
-                <p>Go to <b>Load Shader Preset</b> and choose a preset&nbsp;file.</p>
-                <p>For this example, we used <b>shaders_glsl/crt/crt-geom.glslp</b>.</p>
-            </div>
-        </div>
-
-        <div class="row imagegrid">
-            <div class="col-md-6">
-                <h2>Configuring a shader</h2>
-                <p>In this example, we have set the <b>Menu Shader pipeline</b> to <b>OFF</b> and the <b>Background Opacity</b> to <b>0</b> in the <b>Settings->User Interface->Menu</b> to be able to preview the parameter changes in live.</p>
-                <p>Load a game and apply a shader preset that supports parameters like <b>shaders_glsl/crt/crt-geom.glslp</b>.</p>
-                <p>You then trigger the menu and you should see a Shaders entry in the <b>Quick&nbsp;Menu</b>.</p>
-                <p>Go to <b>Preview Shader Parameters</b> and start playing with the values.</p>
-                <p>When you are happy with your changes, you can save them under a new preset file.</p>
-            </div>
-            <div class="col-md-6">
-                <video width="100%" controls>
-                    <source src="videos/config-shader.webm" type="video/webm">
-                    <source src="videos/config-shader.mp4" type="video/mp4">
-                    Your browser does not support the video tag.
-                </video> 
-            </div>
-        </div>
-
     </div>
 </div>
