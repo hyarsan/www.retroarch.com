@@ -44,7 +44,7 @@
                           </blockquote>
     </div>
        <h2>Configurable latency mitigation tools</h2>
-    <p>RetroArch provides you with the tools you need to combat latency in your games. This includes options such as:</p>
+    <p>RetroArch provides you with all the tools you need to combat latency in your games. This includes options such as:</p>
     <ul>
         <li>Frame Delay</li>
         <li>Synchronization Fences (GPU Hard Sync)</li>
