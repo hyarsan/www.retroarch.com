@@ -51,7 +51,7 @@
         <li>Video drivers for new graphics technology APIs like Vulkan, which can drive latency down even further.</li>
         <li>Maximum amount of configurable swap chains.
             <ul><li>Can be set from 1 to 3 depending on your video driver, your GPU, and the video context driver that is being used by RetroArch.</li><li>Vulkan supports this feature natively, but video drivers might not implement setting lower max swapchains.</li></ul></li>
-        <li>Adjustable audio driver<ul><li>Windows: You can choose between WASAPI (available since Windows 7), XAudio (available since Windows XP), and DirectSound.</li></ul></li>
+        <li>Adjustable audio driver<ul><li>Windows: You can choose between WASAPI (available since Windows 7), XAudio (available since Windows XP), and DirectSound.</li><li>Linux: Depending on the build, you can choose between ALSA, PulseAudio, OSS, and audio servers like JACK.</li></ul></li>
         <li>Adjustable audio buffering for lower/higher audio latency</li>
         <li>Adjustable audio resampler quality</li>
         <li>Configurable swap interval</li>
