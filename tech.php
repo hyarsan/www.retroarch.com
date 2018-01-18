@@ -23,7 +23,7 @@
    <p>
 
     <p>Whoever told you that input lag was a given with emulators and that you needed FPGA in order to avoid this latency, should get him/herself acquainted with RetroArch. Post-RetroArch, latency indistinguishable from real hardware is perfectly possible! 
-<p>Check out Brunnis' findings here on our forum and participate, don't just take our word for it! Link <a href="https://forums.libretro.com/t/an-input-lag-investigation/4407/534">here</a>.
+<p>Check out people's findings here on our forum and participate, don't just take our word for it! Link <a href="https://forums.libretro.com/t/an-input-lag-investigation/4407/534">here</a>.
     </p>
                       <div class="row imagegrid" align="right">
             <div class="col-md-6">
