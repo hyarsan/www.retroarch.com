@@ -33,6 +33,7 @@
                 <li data-target="#features-carousel" data-slide-to="6"></li>
                 <li data-target="#features-carousel" data-slide-to="7"></li>
                 <li data-target="#features-carousel" data-slide-to="8"></li>
+                <li data-target="#features-carousel" data-slide-to="9"></li>
             </ol>
 
             <!-- Wrapper for slides -->
@@ -49,6 +50,7 @@
                         </div>
                     </div>
                 </div>
+                
                 <div class="item cross-platform">
                     <div class="row">
                         <div class="col-sm-6"></div>
@@ -60,6 +62,20 @@
                         </div>
                     </div>
                 </div>
+                
+                <div class="item cross-platform">
+                    <div class="row">
+                        <div class="col-sm-6"></div>
+                        <div class="col-sm-6">
+                            <h2>Next-frame response time - impeccable latency results</h2>
+                            <p>RetroArch is capable of next-frame responsive time. This means that there should be no nearly no perceivable difference in terms of input latency from real hardware, FPGA/clone or original hardware.</p>
+                            <p>On top of all that, there are various settings you can configure to optimize the results even more.</p>
+                            <a class="btn btn-ra pull-right" href="index.php?page=latency">Learn more about latency mitigation in RetroArch</a>
+                        </div>
+                    </div>
+                </div>
+                
+
                 <div class="item customizable">
                     <div class="row">
                         <div class="col-sm-6"></div>
