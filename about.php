@@ -42,7 +42,7 @@
                         <div class="col-sm-6"></div>
                         <div class="col-sm-6">
                             <h2>A Polished Interface</h2>
-                            <p>Browse your game collection through a beautiful clone of the PS3 XMB menu.</p>
+                            <p>Browse your game collection through a beautiful settop box-oriented menu.</p>
                             <p>After scanning your collection, games will be sorted by system.</p>
                             <p>The menu supports thumbnails and features various animated backgrounds. </p>
                             <a class="btn btn-ra pull-right" href="index.php?page=interface">Learn more about the interface</a>
