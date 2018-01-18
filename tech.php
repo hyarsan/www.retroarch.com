@@ -12,7 +12,7 @@
 <div class="doc">
     <div class="container">
         <h2>Latency</h2>
-        <p>RetroArch is truly in a league of its own when it comes to input responsiveness, and it keeps blowing away even us here at Libretro. Several independent researchers did their own research on RetroArch's latency and came away being quite blown away by the results, completely shattering several long-held myths that up until now had been accepted as gospel in emulation circles:</p>
+        <p>RetroArch is truly in a league of its own when it comes to input responsiveness, and it keeps confounding even us here at Libretro. Several independent researchers did their own research on RetroArch's latency and came away being quite blown away by the results, completely shattering several long-held myths that up until now had been accepted as gospel in emulation circles:</p>
         <p>
         <ul>
             <li>That emulation will always have an implicit 3 to 5 frames of input lag, and that therefore FPGA-based hardware will always hold a distinct advantage over software-based emulation.</li>
