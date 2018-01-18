@@ -154,6 +154,10 @@ h1 {
     background-color: #33454f;
 }
 
+#features .item.latency {
+    background-color: #336480;
+}
+
 #features .item.cores {
     background-color: #00468d;
 }
