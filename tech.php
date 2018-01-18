@@ -35,5 +35,8 @@
                                  <blockquote>
            "With Pitfall, I witnessed a response on the very next frame. In the video linked above, you can clearly see me hit the button near the end of one frame, and on the next, Harry jumps! Essentially no way to improve compared to original hardware. Pack it up. We’re done here"
     </blockquote>
+                          <blockquote>
+                              "Ever since I tried Retroarch for the first time there was no doubt in my mind that it was the future. It overcame the crippling input lag that plagues many stand alone emulators."
+                          </blockquote>
     </div>
 </div>
