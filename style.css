@@ -194,6 +194,10 @@ h1 {
     #features .item.customizable {
         background-image: url(images/customizable.jpg);
     }
+    
+    #features .item.latency {
+        background-image: url(images/latency.png);
+    }
 
     #features .item.joypad-autoconfig {
         background-image: url(images/joypad-autoconfig.jpg);
