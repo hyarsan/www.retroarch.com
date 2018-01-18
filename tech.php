@@ -11,6 +11,13 @@
 
 <div class="doc">
     <div class="container">
+                    <div class="row imagegrid" align="right">
+            <div class="col-md-6">
+                <video width="100%" controls>
+                    <source src="videos/latency.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video> 
+            </div>
         <h2>Latency</h2>
         <p>RetroArch is truly in a league of its own when it comes to input responsiveness, and it keeps blowing away even us here at Libretro, to the degree that independent researchers start researching quite how good RetroArch can be and completely shattering several myths that have long been accepted as gospel in emulation circles:</p>
         <p>
@@ -27,13 +34,5 @@
     <p>So, whoever told you that input lag was a given with emulators and that you needed FPGA in order to avoid this latency, should get him/herself acquainted with RetroArch. Post-RetroArch, latency indistinguishable from real hardware is perfectly possible! 
 <p>Check out Brunnis' findings here on our forum and participate, don't just take our word for it! Link <a href="https://forums.libretro.com/t/an-input-lag-investigation/4407/534">here</a>.
     </p>
-    
-            <div class="row imagegrid">
-            <div class="col-md-6">
-                <video width="100%" controls>
-                    <source src="videos/latency.mp4" type="video/mp4">
-                    Your browser does not support the video tag.
-                </video> 
-            </div>
     </div>
 </div>
