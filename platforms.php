@@ -118,7 +118,7 @@
                 <div class="platform">
                     <img src="images/bb.png">
                     <h4>Blackberry</h4>
-                    <a href="#">Download (10/Playbook)</a>
+                    <a href="#">Currently unavailable (N/A)</a>
                     <a href="#">Installation instructions</a>
                 </div>
             </div>
