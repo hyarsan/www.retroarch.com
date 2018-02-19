@@ -157,7 +157,7 @@
                 <div class="platform">
                     <img src="images/xbox.png">
                     <h4>Xbox</h4>
-                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/playstation/xbox/xbox/RetroArch.zip">Download</a>
+                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/xbox/xbox/RetroArch.zip">Download</a>
                     <a href="#">Installation instructions</a>
                     <a href="https://docs.libretro.com/compilation/xbox/">Compilation instructions</a>
                 </div>
