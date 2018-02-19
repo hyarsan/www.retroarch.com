@@ -159,7 +159,6 @@
                     <h4>Xbox</h4>
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/xbox/xbox/RetroArch.zip">Download</a>
                     <a href="#">Installation instructions</a>
-                    <a href="https://docs.libretro.com/compilation/xbox/">Compilation instructions</a>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
@@ -168,7 +167,6 @@
                     <h4>Xbox 360</h4>
                     <a href="#">Currently unavailable (N/A)</a>
                     <a href="#">Installation instructions</a>
-                    <a href="https://docs.libretro.com/compilation/xbox360/">Compilation instructions</a>
                 </div>
             </div>
                                               </div>
