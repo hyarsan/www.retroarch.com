@@ -1,4 +1,4 @@
- <?php $version = "1.7.0"; ?>
+ <?php $version = "1.7.1"; ?>
 
 <div id="welcome">
     <div class="container">
@@ -76,6 +76,8 @@
                     <h4>Apple macOS / OSX</h4>
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/osx/x86_64/RetroArch.dmg" title="Use this if you are using a Mac with at least MacOS X 10.7 installed or later.">Download (Intel)</a>
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/osx/x86_64/RetroArch_CG.dmg" title="Use this if you are using a Mac with at least MacOS X 10.7 installed or later. This build requires Nvidia Cg installed, and will use it. If in doubt, use the other one.">Download (Intel) (with Cg support - requires Cg installed)</a>
+                                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/osx/x86/RetroArch.dmg" title="Use this if you are using a 32bit Mac with at least MacOS X 10.6 installed or later.">Download (Intel)</a>
+                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/osx/x86/RetroArch_CG.dmg" title="Use this if you are using a 32bit Mac with at least MacOS X 10.6 installed or later. This build requires Nvidia Cg installed, and will use it. If in doubt, use the other one.">Download (Intel) (with Cg support - requires Cg installed)</a>
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/osx/ppc/RetroArch.zip" title="Use this if you are using a PowerMac/Powerbook with MacOS X 10.5 installed.">Download (PowerPC)</a>
                     <a href="https://docs.libretro.com/compilation/osx/">Compilation instructions (Intel)</a>
                     <a href="https://docs.libretro.com/compilation/osxppc/">Compilation instructions (PowerPC)</a>
@@ -155,7 +157,7 @@
                 <div class="platform">
                     <img src="images/xbox.png">
                     <h4>Xbox</h4>
-                    <a href="http://xbins.org/">Download (XDK)</a>
+                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/playstation/xbox/xbox/RetroArch.zip">Download</a>
                     <a href="#">Installation instructions</a>
                     <a href="https://docs.libretro.com/compilation/xbox/">Compilation instructions</a>
                 </div>
@@ -164,7 +166,7 @@
                 <div class="platform">
                     <img src="images/xbox360.png">
                     <h4>Xbox 360</h4>
-                    <a href="http://xbins.org/">Download (XeXDK)</a>
+                    <a href="#">Currently unavailable (N/A)</a>
                     <a href="#">Installation instructions</a>
                     <a href="https://docs.libretro.com/compilation/xbox360/">Compilation instructions</a>
                 </div>
