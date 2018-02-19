@@ -130,7 +130,6 @@
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/playstation/ps3/RetroArch.PS3.CEX.PS3.pkg">Download (CEX)</a>
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/playstation/ps3/RetroArch.PS3.ODE.PS3.iso">Download (ODE)</a>
                     <a href="#">Installation instructions</a>
-                    <a href="https://docs.libretro.com/compilation/ps3/">Compilation instructions</a>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
