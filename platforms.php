@@ -174,7 +174,7 @@
             <div class="col-md-3 col-sm-6">
                 <div class="platform">
                     <img src="images/gc.png">
-                    <h4>Gamecube</h4>
+                    <h4>GameCube</h4>
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/nintendo/ngc/RetroArch.7z">Download</a>
                     <a href="#">Installation instructions</a>
                     <a href="https://docs.libretro.com/compilation/gamecube/">Compilation instructions</a>
