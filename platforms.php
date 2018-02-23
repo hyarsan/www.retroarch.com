@@ -126,9 +126,9 @@
                 <div class="platform">
                     <img src="images/ps3.png">
                     <h4>PlayStation 3</h4>
-                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/playstation/ps3/RetroArch.PS3.DEX.PS3.pkg">Download (DEX)</a>
-                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/playstation/ps3/RetroArch.PS3.CEX.PS3.pkg">Download (CEX)</a>
-                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/playstation/ps3/RetroArch.PS3.ODE.PS3.iso">Download (ODE)</a>
+                    <a href="https://new.xbins.org/index.php?action=catsearch&searchtxt=PS3">Download (DEX) [Xbins]</a>
+                    <a href="https://new.xbins.org/index.php?action=catsearch&searchtxt=PS3">Download (CEX) [Xbins]</a>
+                    <a href="https://new.xbins.org/index.php?action=catsearch&searchtxt=PS3">Download (ODE) [Xbins]</a>
                     <a href="#">Installation instructions</a>
                 </div>
             </div>
